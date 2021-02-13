@@ -188,58 +188,11 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7
 #EXTINF:-1  tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png" group-title="HBO GO",Red By HBO 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=e4da3b7fbbce2345d7772b0674a318d5d045c59a90d7587d8d671b5f5aec4e7c
 
-//VIDIO PREMIUM by @RiyanCoday
-
-// RADIO
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/JK_vdgSzbuy1Z4zpXS2v_kYOAFQ=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7184/20f600.jpg" group-title="RADIO",[CODAY] Ardan Radio _VIDIO
-https://cdn-production-thumbor-vidio.akamaized.net/JK_vdgSzbuy1Z4zpXS2v_kYOAFQ=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7184/20f600.jpg?token=eyJhbGciOiJSUzI1NiJ9.eyJkYXRhIjp7ImxpdmVzdHJlYW1pbmdfaWQiOjcxODQsInBsYXlsaXN0X3VybCI6Imh0dHBzOi8vYXBwLWV0c2xpdmUtMi52aWRpby5jb20vbGl2ZS83MTg0L21hc3Rlci5tM3U4IiwiZXhwaXJlX2luIjoxNDQwMH0sImV4cCI6MTYxMjQwMzc0NCwiaXNzIjoid3d3LnZpZGlvLmNvbSJ9.mqi2nLH_ZGReB_6cvCHKMxGHUnCl1X4_vlC2P31zerIFI0NARYTJn0q2cQAq02mGXuYLaz2rZwafpK61PLz3hiIi299TpCjytIraC5aGBBrMgbd9eHGJFrMxchNOESgAIQZRSDVnpZNs0EatRzDKO3HaxDw4StKrJlTEbkriTIQU_OsNfG29xdJ419CAJI8IBfJehGbEpn8_8TrGRxs_r5ak6F-uEIsUXRvdoSo0pn2vaIG_kYrDpR-oq_lof7ZxjJgwMaaKg2WJjEpCC0y0e8UDI0YUWvvwJOEsII-FOyuY5d9ofDQzxf_Vab5S9mYOhHJg2PR_H7q81N3EvlFseQ&auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdlk4NzVHeW1yWldSRWptZVhjUFhJTldwQXRMaEViMjk4MlI2WHhFOENxWEN3K0J1eTVraFZMdVdPMGR5RlE3YW9PZG1MbWdjMkwyMzkwMjRkVHJFK2dFWEtUeER1T0FTZWNWWUNvSFdINUZsSWFXTEpTeFR4SjRyWVpKMjM2U1gzYmVxd3VCbytHWDBVaHB0cHVjOG5QM2R4N1ozU2xOdnRsaWlWSmxzbVg2Nlp1Mmw5a0FYS2ZZUXRxdUJqcVVUU3FIY1dzVmJ6a3NqYlBzMlJ3QTdsbGZJZ3F4dTNGWTBGNytyQWJzN3dpTVZvb0c3M0YyYTcyQk4xZ0xpeE5rOU02Y0xNNFFPNytWNmdDeGV5LzJLanhtSHhkby9YWjMxZzBSdGlTeEV3TjZCc0F0VmhhUGRIN2kvVkxic3FpZWZTVFhRM2FxYTFLZU1XNDlWM0I3QXV3NlhYMkp4VzczWEd2d01tL3BzL2RsVi9NaFVTVzhSblhqTUJuNGRSWm5LWDBWb2htU3FaYVlBbGdGdUhYV09tdTFPbi9oVjBaVU5Ec3dQUFlPQndMTFJLeFZYdVNBWmZ4cjczZ3dKRXR5WTFqRDJBUGtPdTNyMXdRUHBhbHJldHI3VmhKODZKbnBZVTJPbTVEL2xBVEM5amUvbUZUcHZ4VFd2aWF6SFJ6YjVOTnNjS2dYb3hEMUY4UDgzRXdqODZtbE1pRi8zODBCMGw1WUxnS2VCRzJtZllwcnFHbTdWMUhuRHA5VGgwR0Y2aTF1M2t0YU1Ic2wxTnBoL25vWXFKR0lGRDd5dWF5ZEFST3V1bzBoV1p1dVZHNU5RTjJ5M1hPbEtQNzlPV0JPck9XbnN5RXRXMEl3aUNIb0hwZjVFRDVLNzNLODQ5UXhDQzB4QmtibUpxQXd6WnFxQ2xXQUViQ3pxc1VndlBQT0ZJRm1EMFlLVDRjV0RlNVlRSnB2aEt4Zz09&trace_id=1612402964163495529
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6oKgnw867mne27GzUUtVtT0N2UQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7188/mgtradio-3f010f.jpg" group-title="RADIO",[CODAY] MGTRADIO _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=d073bb8d0c47f317dd39de9c9f004e9d41a474e7edc50efff0a6205bcf0d6a77
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oj6YyMLXBYx6etq-_OIyff0fMiI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7166/elshinta-90-fm-502fc0.jpg" group-title="RADIO",[CODAY] Elshinta 90 FM _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=19f01591b6ca3ba03f1aedc8db12cdb941a474e7edc50efff0a6205bcf0d6a77
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/T4UHo0LCl-climV31E81V2d9YgA=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7092/delta-fm-8a4ed5.jpg" group-title="RADIO",[CODAY] Delta FM _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=d4a93297083a23cc099f7bd6a862113141a474e7edc50efff0a6205bcf0d6a77
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/FSRRuSZqUfxjga5I8S1_kisObU0=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7091/bahana-fm-a72d38.jpg" group-title="RADIO",[CODAY] Bahana FM _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=328347805873e9a9c700591812fb0ec241a474e7edc50efff0a6205bcf0d6a77
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/-y11cfX-d77Xfd8DTeRjp17ejYo=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7130/female-fm-6085d4.jpg" group-title="RADIO",[CODAY] Female FM _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=9afbe998374ca7326d35d8418078609641a474e7edc50efff0a6205bcf0d6a77
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/57jrOGpbmYOdNY7aHVqGd2qPITA=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7057/iradio-fm-5ae133.jpg" group-title="RADIO",[CODAY] i-Radio _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=c4bfbf68f5d8d0f8b9a0752ca08ea01d41a474e7edc50efff0a6205bcf0d6a77
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/DrxV76AUlmb94CTMuxJ6CBPluaE=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7055/trax-radio-fm-f696e0.jpg" group-title="RADIO",[CODAY] Trax FM _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=e143c01e314f7b950daca31188cb5d0f41a474e7edc50efff0a6205bcf0d6a77
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YBRzjHB0WdpbFqML5KeaGwS87aI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7054/brava-audio-98ab26.jpg" group-title="RADIO",[CODAY] Brava Radio _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=812469e49663025b39e8d25fdaad81a741a474e7edc50efff0a6205bcf0d6a77
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KgrzkneEj4mt36hQyoeRYHSwGOM=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7053/hardrock-725b7c.jpg" group-title="RADIO",[CODAY] Hard Rock FM _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=dfc69ee4c48a622e2bcda2c3d2a219d041a474e7edc50efff0a6205bcf0d6a77
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/VFEP9jF-lVgH-yKeTVihzbYM92k=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7056/cosmopolitan-df0bea.jpg" group-title="RADIO",[CODAY] Cosmopolitan FM _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=ced92d38d8fec10f1da779dfa44f8bbe41a474e7edc50efff0a6205bcf0d6a77
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HlUZ047VwHBwWe9SYkb782uRSSw=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7004/prambors-on-air-497a58.jpg" group-title="RADIO",[CODAY] Prambors On Air _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=315b4df935f4775ef5033a4833a9e0e141a474e7edc50efff0a6205bcf0d6a77
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/i71qsJ-rpNRzvRVHi4FiAl9lqqw=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7169/test-elgangga-241624.jpg" group-title="RADIO",[CODAY] ELGANGGA _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=b44182379bf9fae976e6ae5996e13cd841a474e7edc50efff0a6205bcf0d6a77
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TUUw9FmfGOyhAVomlu68R7nAhRA=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7216/test-geronimo-428e77.jpg" group-title="RADIO",[CODAY] Geronimo _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=994d1cad9132e48c993d58b492f71fc141a474e7edc50efff0a6205bcf0d6a77
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/BlQVi3IuDa3cNIcBUlsQpkmosFU=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7170/test-elmitra-284cd6.jpg" group-title="RADIO",[CODAY] ELMITRA _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=9eb53b5052d534ea2619ca03b5649af741a474e7edc50efff0a6205bcf0d6a77
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lwTyMxVS5rZJEx8enJ-AIGtfgtc=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7242/dahlia-fm-045618.jpg" group-title="RADIO",[CODAY] Dahlia FM _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=a09b68ada5e8b2060f380a53c02cf3d841a474e7edc50efff0a6205bcf0d6a77
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/j5Z0S8S-qTr50wyzwpQOncE6jsc=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7248/swaragama-fm-jogja-69421e.jpg" group-title="RADIO",[CODAY] SWARAGAMA FM Jogja ! _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=1f4183315762e30ea441d3caef5e64ad41a474e7edc50efff0a6205bcf0d6a77
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/JEAFdxncphI9NZIpRaIMCJsp0l8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7281/imelda-fm-62c9f4.jpg" group-title="RADIO",[CODAY] Imelda FM _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=701d804549a4a23d3cae801dac6c2c7541a474e7edc50efff0a6205bcf0d6a77
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/18lCPF0r-GxnzqMssQk3QYfZbec=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7218/sushi-radio-1e2940.jpg" group-title="RADIO",[CODAY] Sushi Radio _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=e7d6e2e80f0955c01f3e043ee79abbb641a474e7edc50efff0a6205bcf0d6a77
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0QlHgn8G8mWV_BtoVTFguAsdq4o=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7284/gajahmada-b307da.jpg" group-title="RADIO",[CODAY] GAJAHMADA _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=ac450d10e166657ec8f93a1b65ca1b1441a474e7edc50efff0a6205bcf0d6a77
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/u_TFz7CXswyM5PaK7NXzLCKrMS0=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7283/swara-semarang-579dc0.jpg" group-title="RADIO",[CODAY] SWARA SEMARANG _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=f82798ec8909d23e55679ee26bb2643741a474e7edc50efff0a6205bcf0d6a77
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2uKZMyskjeaNVXn7bVfC35pfOGw=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7297/test-radio-cakra-41a97a.jpg" group-title="RADIO",[CODAY] Radio Cakra _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=142536b9b535b78e681c11b0195d962f41a474e7edc50efff0a6205bcf0d6a77
 
 #EXTINF: -1 tvg-logo="https://mkctv.net/wp-content/uploads/2020/07/cropped-mkcfc.jpg" group-title="MOVIES", MKC MOVIE
-#https://mkctv.net/topcermkc/mkcmovie.m3u8
+https://mkctv.net/topcermkc/mkcmovie.m3u8
 #EXTINF:-1 tvg-id="FOXFamilyMovies.id" tvg-name="FOX FAMILY" tvg-logo="http://cekker.masuk.web.id/logo/foxFam4.png" group-title="MOVIES",FOX FAMILY MOVIES
-#http://103.76.148.203:55555/bone/streaming/974
+http://103.76.148.203:55555/bone/streaming/974
 #http://tv.tangyuanya.com:8080/hls/ke9797/217
 #EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://www.infotelevisi.com/asset/logotv/5690c06fb32f2-hbo_asia_hd.jpg" group-title="MOVIES", HBO Malay
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -255,45 +208,6 @@ https://mkctv.net/siap/hbo-hitshd.m3u8
 https://mkctv.net/siap/hbo-maxhd.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="MOVIES", RedByHBO
 https://mkctv.net/siap/hbo-redhd.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/FCtr1jt.png" group-title="MOVIES", FOX MOVIE
-http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
-#https://mkctv.net/topcermkc/foxmovie.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/YsJ8QhT.png",FOX ACTION MOVIES
-http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://static-media.fox.com/foxnow/web/v3-2/img/fox_logo.jpg" group-title="MOVIES",Fox HD
-http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://www.tvchinese.net/uploads/tv/foxcrime.jpg" group-title="MOVIES",Fox Chrime
-http://50.7.161.82:8278/streams/d/Foxcrime/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="MOVIES", Galaxi Premium
-https://mkctv.net/siap/usee-galaxypremium.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="MOVIES", Galaxi
-https://mkctv.net/siap/usee-galaxy.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/61/a0/19/61a0192326bba2f550f7ff564552a5c5.jpg" group-title="MOVIES", Kungfu Clasic Indo
-http://stream1.ninmedia.tv:1935/atv/udp.stream/chunklist_w465987392.m3u8
-#EXTINF: -1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/celestial_classic_movies.jpg" group-title="MOVIES", Clestial Clasic
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="MOVIES", Clestial Movie
-https://mkctv.net/siap/usee-celestialmovie.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="MOVIES", KIX
-https://mkctv.net/siap/usee-kix.m3u8
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/923508008952279041/UbA6K2Wj.jpg" group-title="MOVIES", Zee Bioskop
-https://mkctv.net/topcermkc/zee.m3u8
-#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/AUj9an1e7RY/maxresdefault.jpg" group-title="MOVIES", AXN
-https://mkctv.net/siap/usee-axn.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="MOVIES", THRILL
-https://mkctv.net/siap/usee-thrill.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="MOVIES", Citra Drama
-https://mkctv.net/siap/usee-cdrama.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="MOVIES", FLIK
-https://mkctv.net/siap/usee-flik.m3u8
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/media/EUwMjZxXQAAEzVM.jpg" group-title="MOVIES", WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF: -1 tvg-logo="https://mkctv.net/wp-content/uploads/2020/07/cropped-mkcfc.jpg" group-title="MOVIES", MKC MOVIE Sub English
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/andflix-logo.jpg" group-title="MOVIES", &Flix
-http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/playlist.m3u8
-#http://z5amshls.akamaized.net/andflix/tracks-v1a1/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="oxygentv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/oxygen.png" group-title="OXYGEN",Oxygen TV
 http://103.55.39.182/~dusktil2/a.m3u8?q=oxygentv
