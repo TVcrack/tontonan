@@ -236,7 +236,63 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2uKZMyskjeaNVXn7bVfC35pfOGw=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7297/test-radio-cakra-41a97a.jpg" group-title="RADIO",[CODAY] Radio Cakra _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=142536b9b535b78e681c11b0195d962f41a474e7edc50efff0a6205bcf0d6a77
 
-
+#EXTINF: -1 tvg-logo="https://mkctv.net/wp-content/uploads/2020/07/cropped-mkcfc.jpg" group-title="MOVIES", MKC MOVIE
+#https://mkctv.net/topcermkc/mkcmovie.m3u8
+#EXTINF:-1 tvg-id="FOXFamilyMovies.id" tvg-name="FOX FAMILY" tvg-logo="http://cekker.masuk.web.id/logo/foxFam4.png" group-title="MOVIES",FOX FAMILY MOVIES
+#http://103.76.148.203:55555/bone/streaming/974
+#http://tv.tangyuanya.com:8080/hls/ke9797/217
+#EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://www.infotelevisi.com/asset/logotv/5690c06fb32f2-hbo_asia_hd.jpg" group-title="MOVIES", HBO Malay
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://www.infotelevisi.com/asset/logotv/5690c06fb32f2-hbo_asia_hd.jpg" group-title="MOVIES", HBO
+https://mkctv.net/siap/hbo-hbohd.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES", HBOFamily
+https://mkctv.net/siap/hbo-famhd.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="MOVIES", HBOSignature
+https://mkctv.net/siap/hbo-sighd.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES", HBOHits
+https://mkctv.net/siap/hbo-hitshd.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="MOVIES", CINEMAX
+https://mkctv.net/siap/hbo-maxhd.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="MOVIES", RedByHBO
+https://mkctv.net/siap/hbo-redhd.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FCtr1jt.png" group-title="MOVIES", FOX MOVIE
+http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
+#https://mkctv.net/topcermkc/foxmovie.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/YsJ8QhT.png",FOX ACTION MOVIES
+http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static-media.fox.com/foxnow/web/v3-2/img/fox_logo.jpg" group-title="MOVIES",Fox HD
+http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://www.tvchinese.net/uploads/tv/foxcrime.jpg" group-title="MOVIES",Fox Chrime
+http://50.7.161.82:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="MOVIES", Galaxi Premium
+https://mkctv.net/siap/usee-galaxypremium.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="MOVIES", Galaxi
+https://mkctv.net/siap/usee-galaxy.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/61/a0/19/61a0192326bba2f550f7ff564552a5c5.jpg" group-title="MOVIES", Kungfu Clasic Indo
+http://stream1.ninmedia.tv:1935/atv/udp.stream/chunklist_w465987392.m3u8
+#EXTINF: -1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/celestial_classic_movies.jpg" group-title="MOVIES", Clestial Clasic
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="MOVIES", Clestial Movie
+https://mkctv.net/siap/usee-celestialmovie.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="MOVIES", KIX
+https://mkctv.net/siap/usee-kix.m3u8
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/923508008952279041/UbA6K2Wj.jpg" group-title="MOVIES", Zee Bioskop
+https://mkctv.net/topcermkc/zee.m3u8
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/AUj9an1e7RY/maxresdefault.jpg" group-title="MOVIES", AXN
+https://mkctv.net/siap/usee-axn.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="MOVIES", THRILL
+https://mkctv.net/siap/usee-thrill.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="MOVIES", Citra Drama
+https://mkctv.net/siap/usee-cdrama.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="MOVIES", FLIK
+https://mkctv.net/siap/usee-flik.m3u8
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/media/EUwMjZxXQAAEzVM.jpg" group-title="MOVIES", WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF: -1 tvg-logo="https://mkctv.net/wp-content/uploads/2020/07/cropped-mkcfc.jpg" group-title="MOVIES", MKC MOVIE Sub English
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/andflix-logo.jpg" group-title="MOVIES", &Flix
+http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/playlist.m3u8
+#http://z5amshls.akamaized.net/andflix/tracks-v1a1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="oxygentv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/oxygen.png" group-title="OXYGEN",Oxygen TV
