@@ -187,27 +187,9 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=a87ff679a2f3e71d9181a67b7542122cd045c59a90d7587d8d671b5f5aec4e7c
 #EXTINF:-1  tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png" group-title="HBO GO",Red By HBO 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=e4da3b7fbbce2345d7772b0674a318d5d045c59a90d7587d8d671b5f5aec4e7c
-
-
-#EXTINF: -1 tvg-logo="https://mkctv.net/wp-content/uploads/2020/07/cropped-mkcfc.jpg" group-title="MOVIES", MKC MOVIE
-https://mkctv.net/topcermkc/mkcmovie.m3u8
-#EXTINF:-1 tvg-id="FOXFamilyMovies.id" tvg-name="FOX FAMILY" tvg-logo="http://cekker.masuk.web.id/logo/foxFam4.png" group-title="MOVIES",FOX FAMILY MOVIES
-http://103.76.148.203:55555/bone/streaming/974
-#http://tv.tangyuanya.com:8080/hls/ke9797/217
 #EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://www.infotelevisi.com/asset/logotv/5690c06fb32f2-hbo_asia_hd.jpg" group-title="MOVIES", HBO Malay
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://www.infotelevisi.com/asset/logotv/5690c06fb32f2-hbo_asia_hd.jpg" group-title="MOVIES", HBO
-https://mkctv.net/siap/hbo-hbohd.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES", HBOFamily
-https://mkctv.net/siap/hbo-famhd.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="MOVIES", HBOSignature
-https://mkctv.net/siap/hbo-sighd.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES", HBOHits
-https://mkctv.net/siap/hbo-hitshd.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="MOVIES", CINEMAX
-https://mkctv.net/siap/hbo-maxhd.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="MOVIES", RedByHBO
-https://mkctv.net/siap/hbo-redhd.m3u8
+
 
 #EXTINF:-1 tvg-id="oxygentv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/oxygen.png" group-title="OXYGEN",Oxygen TV
 http://103.55.39.182/~dusktil2/a.m3u8?q=oxygentv
