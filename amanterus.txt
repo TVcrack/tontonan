@@ -112,51 +112,6 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=76383b34503afb0508f8364787c55800102a6ed6587b5b8cb4ebbe972864690b
 
 
-//LOCAL 2021 - CODAY
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png?v=2.0.1.16" group-title="LOCAL 2"  tvg-id="Riyan.788d986905533aba051261497ecffcbb.Coday" tvg-name"[CODAY] Ruang Trampil _USEETV",[CODAY] Ruang Trampil _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=979d472a84804b9f647bc185a877a8b563ff6b093d51bada01b2fd714eb3144a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useephoto_big.png?v=2.0.0.13" group-title="LOCAL 2"  tvg-id="Riyan.a8f15eda80c50adb0e71943adc8015cf.Coday" tvg-name"[CODAY] Usee Photo _USEETV",[CODAY] Usee Photo _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=ca46c1b9512a7a8315fa3c5a946e826563ff6b093d51bada01b2fd714eb3144a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="LOCAL 2"  tvg-id="Riyan.1afa34a7f984eeabdbb0a7d494132ee5.Coday" tvg-name"[CODAY] UseePrime _USEETV",[CODAY] UseePrime _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=fbd7939d674997cdb4692d34de8633c463ff6b093d51bada01b2fd714eb3144a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvri_big1.png?v=2.0.0.13" group-title="LOCAL 2"  tvg-id="Riyan.411ae1bf081d1674ca6091f8c59a266f.Coday" tvg-name"[CODAY] TVRI _USEETV",[CODAY] TVRI _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=c74d97b01eae257e44aa9d5bade97baf63ff6b093d51bada01b2fd714eb3144a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indosiar_big1.png?v=2.0.0.15" group-title="LOCAL 2" CODAY WAS HERE!
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jitv_big.png?v=2.0.0.13" group-title="LOCAL 2"  tvg-id="Riyan.cbcb58ac2e496207586df2854b17995f.Coday" tvg-name"[CODAY] JITV _USEETV",[CODAY] JITV _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=d1c38a09acc34845c6be3a127a5aacaf63ff6b093d51bada01b2fd714eb3144a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kompastv_big.png?v=2.0.0.13" group-title="LOCAL 2"  tvg-id="Riyan.10a7cdd970fe135cf4f7bb55c0e3b59f.Coday" tvg-name"[CODAY] Kompas TV _USEETV",[CODAY] Kompas TV _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff363ff6b093d51bada01b2fd714eb3144a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_net_big1.png?v=2.0.0.13" group-title="LOCAL 2"  tvg-id="Riyan.a63fc8c5d915e1f1a40f40e6c7499863.Coday" tvg-name"[CODAY] Net. _USEETV",[CODAY] Net. _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f063ff6b093d51bada01b2fd714eb3144a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rtv_big1.png?v=2.0.0.13" group-title="LOCAL 2"  tvg-id="Riyan.f73b76ce8949fe29bf2a537cfa420e8f.Coday" tvg-name"[CODAY] Rajawali TV _USEETV",[CODAY] Rajawali TV _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc5663ff6b093d51bada01b2fd714eb3144a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rri_big1.png?v=2.0.0.13" group-title="LOCAL 2"  tvg-id="Riyan.d1f491a404d6854880943e5c3cd9ca25.Coday" tvg-name"[CODAY] RRI NET _USEETV",[CODAY] RRI NET _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=38db3aed920cf82ab059bfccbd02be6a63ff6b093d51bada01b2fd714eb3144a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_sctv_big1.png?v=2.0.0.15" group-title="LOCAL 2" CODAY WAS HERE!
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trans7_big1.png?v=2.0.0.13" group-title="LOCAL 2"  tvg-id="Riyan.1abb1e1ea5f481b589da52303b091cbb.Coday" tvg-name"[CODAY] Trans7 _USEETV",[CODAY] Trans7 _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc63ff6b093d51bada01b2fd714eb3144a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_transtv_big1.png?v=2.0.0.13" group-title="LOCAL 2"  tvg-id="Riyan.21fe5b8ba755eeaece7a450849876228.Coday" tvg-name"[CODAY] TransTV _USEETV",[CODAY] TransTV _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e063ff6b093d51bada01b2fd714eb3144a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antara_big1.png?v=2.0.0.13" group-title="LOCAL 2"  tvg-id="Riyan.fe70c36866add1572a8e2b96bfede7bf.Coday" tvg-name"[CODAY] Antara _USEETV",[CODAY] Antara _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d2163ff6b093d51bada01b2fd714eb3144a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_balitv_big1.png?v=2.0.0.13" group-title="LOCAL 2"  tvg-id="Riyan.0777d5c17d4066b82ab86dff8a46af6f.Coday" tvg-name"[CODAY] Bali TV _USEETV",[CODAY] Bali TV _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f35103915218963ff6b093d51bada01b2fd714eb3144a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_beritasatu_big1.png?v=2.0.0.13" group-title="LOCAL 2"  tvg-id="Riyan.69d658d0b2859e32cd4dc3b970c8496c.Coday" tvg-name"[CODAY] Berita Satu _USEETV",[CODAY] Berita Satu _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f63ff6b093d51bada01b2fd714eb3144a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jaktv_big1.png?v=2.0.0.13" group-title="LOCAL 2"  tvg-id="Riyan.7f975a56c761db6506eca0b37ce6ec87.Coday" tvg-name"[CODAY] JakTV _USEETV",[CODAY] JakTV _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=1c383cd30b7c298ab50293adfecb7b1863ff6b093d51bada01b2fd714eb3144a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jtv_big1.png?v=2.0.0.13" group-title="LOCAL 2"  tvg-id="Riyan.5737c6ec2e0716f3d8a7a5c4e0de0d9a.Coday" tvg-name"[CODAY] JTV _USEETV",[CODAY] JTV _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=6ea9ab1baa0efb9e19094440c317e21b63ff6b093d51bada01b2fd714eb3144a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13" group-title="LOCAL 2"  tvg-id="Riyan.556f391937dfd4398cbac35e050a2177.Coday" tvg-name"[CODAY] TV Edukasi _USEETV",[CODAY] TV Edukasi _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=6f4922f45568161a8cdf4ad2299f6d2363ff6b093d51bada01b2fd714eb3144a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_daaitv_big1.png?v=2.0.0.13" group-title="LOCAL 2"  tvg-id="Riyan.a5cdd4aa0048b187f7182f1b9ce7a6a7.Coday" tvg-name"[CODAY] Daai TV _USEETV",[CODAY] Daai TV _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd475529463ff6b093d51bada01b2fd714eb3144a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_insert_big1.png?v=2.0.0.13" group-title="LOCAL 2" CODAY WAS HERE!
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nusantaratv_big.png?v=1.1" group-title="LOCAL 2"  tvg-id="Riyan.49182f81e6a13cf5eaa496d51fea6406.Coday" tvg-name"[CODAY] Nusantara TV _USEETV",[CODAY] Nusantara TV _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f963ff6b093d51bada01b2fd714eb3144a
 
 
 
