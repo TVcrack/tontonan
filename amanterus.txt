@@ -212,32 +212,6 @@ http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=ebskids
 https://stream-04.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybMOAlQafamC6XjBsDQoTPJM)/dm/3/x619221/s/live-2.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/beinsports1.png" group-title="SPORTS", beIN Sport 1
-https://cdnkbl2.useetv.com/joss/15/bein1/chunklist_w797280632_b1344100_sleng.m3u8?enc=JkbRsLKMJ13w5SWeSf6mLg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613357421
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/beinsports2.png" group-title="SPORTS", beIN Sport 2
-https://cdnkbl2.useetv.com/joss/15/bein2/chunklist_w896051777_b1344100_sleng.m3u8?enc=UDrOIfDjyMB9dZnVJt5KuA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613357422
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/nba.png" group-title="SPORTS", NBA
-https://cdnkbl2.useetv.com/joss/15/nba/chunklist_w1324029837_b1344100_sleng.m3u8?enc=E_WZIM-LLCM2TfgI5Bz2yA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613357421
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/champions1.png" group-title="SPORTS", Champion TV 1
-https://cdnkbl2.useetv.com/joss/15/champion1/chunklist_w1180047291_b1344100_sleng.m3u8?enc=rgB1KVRrzpLNjJpEv4xbyQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613359288
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/champions2.png" group-title="SPORTS", Champion TV 2
-https://cdnkbl2.useetv.com/joss/15/champion2/chunklist_w1234940028_b1344100_sleng.m3u8?enc=tSf7ycKom3LEFt3huXbDwg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613357424
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/foxsports1.png" group-title="SPORTS", Fox Sport 1
-https://cdnkbl2.useetv.com/joss/15/foxsport1/chunklist_w1705216095_b1344100_sleng.m3u8?enc=3axHvDkC6VTIsKXyhHzpZg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613357425
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/foxsports2.png" group-title="SPORTS", Fox Sport 2
-https://cdnkbl2.useetv.com/joss/15/foxsport2/chunklist_w909681618_b1344100_sleng.m3u8?enc=ySjdQxfGYUL2qqtyY0OEmw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613357426
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/foxsports3.png" group-title="SPORTS", Fox Sport 3
-https://cdnkbl2.useetv.com/joss/15/foxsport3/chunklist_w170919771_b1344100_sleng.m3u8?enc=ZLFB6JM-gmybLujSmatutA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613357427
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/golf.png" group-title="SPORTS", Golf
-https://cdnkbl2.useetv.com/joss/15/golfplus/chunklist_w823418496_b1344100_sleng.m3u8?enc=GTge9Fo-PnU-rWApSK-HNA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613357428
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useesports1.png" group-title="SPORTS", Useesports 1
-https://cdnkbl2.useetv.com/joss/15/useesport/chunklist_w1366762406_b1344100_sleng.m3u8?enc=8tEp2XKxb-n6FEu5BqvIiQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613359294
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useesports2.png" group-title="SPORTS", Useesports 2
-https://cdnkbl2.useetv.com/joss/15/useesports2/chunklist_w77389320_b1344100_sleng.m3u8?enc=c72pHwZU9xsD14oWYYRBBw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613357430
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/egg.png" group-title="SPORTS", eGG TV
-https://cdnkbl2.useetv.com/joss/14/egg/chunklist_w533668224_b684100_sleng.m3u8?enc=XaCrqIFVYKrP3fqxg4gNMQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613357440
-
-
 
 
 #EXTINF:-1 tvg-id="oxygentv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/oxygen.png" group-title="OXYGEN",Oxygen TV
