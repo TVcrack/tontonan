@@ -13,8 +13,8 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7eabe3a1649ffa2b3ff8c02ebfd5659f102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="LOCAL",[CODAY] ANTV _DENS
 http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="LOCAL",[CODAY] TVONE _DENS
-http://210.210.155.35/qwr9ew/s/s105/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="LOCAL",[CODAY] TVONE
+https://stream-02.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybAOAeEK02xxFxCgEjbLIJpQ)/dm/3/x619221/s/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LveTiruIzIi7xfIe0bp6BH097SY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/5ed6aa.png" tvg-id="RIYAN.a6056602181e4d8f6b5c34acf575cbe4.SHINTA" tvg-name"[CODAY] Kompas TV _VIDIO" group-title="LOCAL",[CODAY] Kompas TV _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559102a6ed6587b5b8cb4ebbe972864690b
