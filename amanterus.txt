@@ -76,6 +76,19 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=2e2c4bf7ceaa4712a72dd5ee136dc9a8102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/y4nR7h0L1cO-DaTDy2M0-IM5fY0=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6747/zing-74f73f.jpg" tvg-id="RIYAN.577330bac1209ea48fed08f49182d3de.SHINTA" tvg-name"[CODAY] ZING _VIDIO" group-title="MOVIES",[CODAY] ZING _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=ef452c63f81d0105dd4486f775adec81102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trt.png" group-title="News",TRT World https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://kamiselaluada.com/img/hbo.png", HBO https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://kamiselaluada.com/img/hbosig.png", HBO Signature https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://kamiselaluada.com/img/hbohits.png", HBO Hits https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://kamiselaluada.com/img/hbofamily.png", HBO Family https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://kamiselaluada.com/img/cinemax.png", CINEMAX https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 tvg-id="redbyhbo" group-title="MOVIES" tvg-logo="http://kamiselaluada.com/img/redhbo.png", RED by HBO https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://kamiselaluada.com/img/flix.png", &Flix https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://kamiselaluada.com/img/prive.png", &Prive https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://kamiselaluada.com/img/fox.png",FOX (VN) http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="foxlife" group-title="MOVIES" tvg-logo="http://kamiselaluada.com/img/foxlife.png",FOX LIFE (VN) https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="foxmovies" group-title="MOVIES" tvg-logo="http://kamiselaluada.com/img/foxmovies.png",FOX Movies (VN) http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="foxfamilymovies" group-title="MOVIES" tvg-logo="http://kamiselaluada.com/img/foxfamilymovies.png",FOX FAMILY Movies (VN) http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/kGD42ZLQ-OfFt7rrrmLErptMN6c=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" tvg-id="RIYAN.9e11d3723d253a0ac436b06a368c7f54.SHINTA" tvg-name"[CODAY] Citra Entertainment _VIDIO" group-title="ENTERTAINMENT",[CODAY] Citra Entertainment _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=72c25197b6a491816d9a84b42d7205f0102a6ed6587b5b8cb4ebbe972864690b
 
