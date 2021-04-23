@@ -4,11 +4,13 @@ https://etslive-2-vidio-com.akamaized.net/exp=1619186401~acl=/hls-p/ingest_204_*
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="VIDIO",INDOSIAR 
 https://etslive-2-vidio-com.akamaized.net/exp=1619186410~acl=/hls-p/ingest_205_*/*~hmac=1ad72f41484e4b9844304482a6e1adb3c97fc3a534a26cff051e986489537d4a/hls-p/ingest_205_720p/index.m3u8
 #EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="VIDIO",Trans TV 
-https://etslive-2-vidio-com.akamaized.net/exp=1619186421~acl=/hls-p/ingest_733_*/*~hmac=fd797fd4218248d2ffa55a5cefb7acf044219ffddeb5f6ce5c67f3bde1bd96a0/hls-p/ingest_733_720p/index.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="VIDIO",RCTI 
-https://etslive-2-vidio-com.akamaized.net/exp=1619186251~acl=/hls-p/ingest_665_*/*~hmac=af7d00b2c06dcd07bdfb4f283490150e1db52dca49c8ca74a0b16079edd6f3f2/hls-p/ingest_665_720p/index.m3u8 
+https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="VIDIO",Trans 7 
-https://etslive-2-vidio-com.akamaized.net/exp=1619186423~acl=/hls-p/ingest_734_*/*~hmac=b9086bf5b5bf3ee7071d83fd014d7023d1c0ae7d9e9446cd63d1d3d822095b79/hls-p/ingest_734_720p/index.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="VIDIO",JakTV 
+https://etslive-2-vidio-com.akamaized.net/exp=1619186370~acl=/hls-p/ingest_5415_*/*~hmac=3eaeb4003339a7994566bb511ffb3a5e5d524723bb8fe848a018a4365005aa90/hls-p/ingest_5415_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="VIDIO",JakTV 
 https://etslive-2-vidio-com.akamaized.net/exp=1619186370~acl=/hls-p/ingest_5415_*/*~hmac=3eaeb4003339a7994566bb511ffb3a5e5d524723bb8fe848a018a4365005aa90/hls-p/ingest_5415_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="VIDIO",Kompas TV 
