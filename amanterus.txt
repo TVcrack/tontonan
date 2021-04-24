@@ -8,9 +8,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="VIDIO",JakTV 
 https://etslive-2-vidio-com.akamaized.net/exp=1619186370~acl=/hls-p/ingest_5415_*/*~hmac=3eaeb4003339a7994566bb511ffb3a5e5d524723bb8fe848a018a4365005aa90/hls-p/ingest_5415_720p/index.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="VIDIO",SCTV 
-https://etslive-2-vidio-com.akamaized.net/exp=1619240415~acl=/hls-p/ingest_204_*/*~hmac=3e9d79496e43bb0ccff18bda620890e211309ed0a1e9336d01c91e84295a81ae/hls-p/ingest_204_720p/index.m3u8
+https://cdnbal1.useetv.com/joss/133/sctv/chunklist_w1157917492_b1344100_sleng_kamiselaluada.m3u8?enc=cFkXfS3St_XlJZ53OGjFTQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1619290815
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="VIDIO",INDOSIAR 
-https://etslive-2-vidio-com.akamaized.net/exp=1619240416~acl=/hls-p/ingest_205_*/*~hmac=2227836e98d24f75b47907ea453971528452c40f6d937c16717923236bc5475f/hls-p/ingest_205_720p/index.m3u8
+https://cdnbal1.useetv.com/joss/133/indosiar/chunklist_w2094497012_b684100_sleng_kamiselaluada.m3u8?enc=piHZTMqdQME3kXF-B4O9eQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1619290814
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="VIDIO",JakTV 
 https://etslive-2-vidio-com.akamaized.net/exp=1619186370~acl=/hls-p/ingest_5415_*/*~hmac=3eaeb4003339a7994566bb511ffb3a5e5d524723bb8fe848a018a4365005aa90/hls-p/ingest_5415_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="VIDIO",Kompas TV 
