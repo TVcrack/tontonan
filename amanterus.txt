@@ -216,17 +216,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trt.png" group-title="News",TRT World 
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movies",HBO HD
-https://gratismkctv.net/film/hbo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhZWyqtG/hbohits-logo.jpg" group-title="Movies",HBO Hits
-http://iya.mba:8888/6894864475/7163819284/591
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhZWyqtG/hbohits-logo.jpg" group-title="Movies",HBO Family
-http://tvku.live:8888/6894864475/7163819284/30184
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYmDvC7G/1200px-HBO-Signature-svg.png" group-title="Movies", HBO Signature
-http://iya.mba:8888/6894864475/7163819284/873
 #EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://www.infotelevisi.com/asset/logotv/5690c06fb32f2-hbo_asia_hd.jpg" group-title="MOVIES", HBO Malay
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
