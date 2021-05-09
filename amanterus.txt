@@ -158,7 +158,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",FoxSport2 
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/59XPQ03/hd1.png" group-title="SPORTS", BeinSports PREM HD1
-http://3.amaniyouhra.xyz/live/6161655/index.m3u8  
+http://1.adnaraoun.xyz/live/6161655/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/59XPQ03/hd1.png" group-title="SPORTS", BeinSports PREM HD2  	
 http://2.alhawalouh.xyz/live/616194987/index.m3u8  	
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t48LRg4/hd2.png" group-title="SPORTS", BeinSports PREM HD3
