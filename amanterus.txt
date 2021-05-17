@@ -183,6 +183,85 @@ http://1.alhawalouh.xyz/live/69854211/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qx4hMQ4/hd3.png" group-title="SPORTS", BeinSports HD3
 http://3.alhawalouh.xyz/live/645587700/index.m3u8
 
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",FoxSport1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",FoxSport2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",FoxSport3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",Dubai HorseRacing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",UFC1
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",UFC2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",LaoChampa
+https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",LaoChampa2
+https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",LaoChampa3
+https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",TVRI Sports
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",Racing.Com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT", Setanta(backUp)
+http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT", FOOTBALL TV
+https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_360p/index.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT", BEKsport
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",@ytson1
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 grlogo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",@YTSON2HD
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",Adventure sport
+https://dai2.xumo.com/xumocdn/adventuresportsnetworkEdhorizki-PPIIPTV/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",STADIUM
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",FIGHT BOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT", ÐšÐ¢Ð Ðš Sport
+http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT", Uni Sports
+http://unisportslive1-lh.akamaihd.net/i/boston_042114_1@39543/index_2000_av-b.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT", Swiss Sports
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT", WWE
+http://cdnak10.cast4u.info/channels/4/10804.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",Bahrain Sport 2
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8?checkedby
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",ALL Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",Eurosport 2
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8?checkedby
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?checkedby
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",Oman Sport
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?checkedby
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8?checkedby
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",Esport Club
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8?checkedby
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8?checkedby
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",UFC 2
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",UFC 3
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",Fox Sports 2 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL SPORT",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trt.png" group-title="News",TRT World 
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
