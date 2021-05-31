@@ -1596,6 +1596,25 @@ http://203.162.235.41:16911
 http://203.162.235.41:16914
 
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" group-title="FASHION", Fashion TV MIDNIGHT
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FTVMidnightSecret_466x466.png" group-title="FASHION", Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/20/1-20011616205R57.jpg" group-title="FASHION", WF
+http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cUb_9mqxSfs/X0W_iTV4kZI/AAAAAAAAAAw/-k6yGAfoObwp0tioI2TZVuAKK_eYeOLOwCLcBGAsYHQ/s512/hd.jpg" group-title="FASHION", HD Fashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zoOOiEKPpsA/X0XAA27Y9wI/AAAAAAAAAA4/6v1te5UeNoUC8-pYC4UYG1zQ6DwKjLBSQCLcBGAsYHQ/s389/jasmin.png" group-title="FASHION", JASMIN TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLLwwdCuMg1KDk4tMoWdCQiYWO2JfJBcalfe7dAfjwUoq1oa2C" group-title="FASHION", BIKINI NETWORK
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+
+
 
 
 
