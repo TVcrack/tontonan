@@ -169,6 +169,11 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/ydWxpHdd/16f01924b3993c0a6d70.jpg" group-title="LOCAL",TVRI HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/ngc.png" group-title="Knowledge", National Geographic 
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_big.png" group-title="knowledge",ASIAN FOOD CHANNEL
+http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
+
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",FoxSport2 
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
