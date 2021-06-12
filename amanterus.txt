@@ -189,16 +189,21 @@ http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",FoxSport2 
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/59XPQ03/hd1.png" group-title="SPORTS", BeinSports PREM HD1
-http://1.adnaraoun.xyz/live/6161655/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/59XPQ03/hd1.png" group-title="SPORTS", BeinSports PREM HD2  	
-http://2.alhawalouh.xyz/live/616194987/index.m3u8  	
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t48LRg4/hd2.png" group-title="SPORTS", BeinSports PREM HD3
-http://3.alhawalouh.xyz/live/6151278887/index.m3u8   	
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t48LRg4/hd2.png" group-title="SPORTS", BeinSports HD2
-http://1.alhawalouh.xyz/live/69854211/index.m3u8      	
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qx4hMQ4/hd3.png" group-title="SPORTS", BeinSports HD3
-http://3.alhawalouh.xyz/live/645587700/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/59XPQ03/hd1.png" group-title="SPORTS", BeinSports HD1
+http://62.182.80.153/live/Livetv/master/22.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  eleven_sports_2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Astrosp1
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Astrosp2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Astrosp3
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Astrosp4
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", canal_plus_sport
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nba.png" group-title="ALL SPORT",NBA
 http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
