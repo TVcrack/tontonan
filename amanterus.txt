@@ -70,57 +70,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6c8349cc7260ae62e3b1396831a8398fdfdded94c48ea6229c48edefa9ec1c9f
 // MOVIES
 
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] FOX FAMILY HD _VN
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] FOX HD _VN
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] FOX MOVIES HD _VN
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] FOX LIFE HD _VN
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
-
-#EXTINF:-1 tvg-logo="https://codaytv.eu/images/ainostv.png" group-title="MOVIES",[CODAY] Ainos TV _NIN
-
 #EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] MOVIE _GROUP
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] ZQ DRAMA _GROUP
-http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] ZEE CLASSIC HD _GROUP
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] ZEE CINEMA _GROUP
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] ZEE CAFE _GROUP
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] &PRIVE _GROUP
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] &FLIX _GROUP
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] FOX FAMILY HD _VN
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] FOX HD _VN
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] FOX MOVIES HD _VN
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] FOX LIFE HD _VN
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1 tvg-logo="https://codaytv.eu/images/ainostv.png" group-title="MOVIES",[CODAY] Ainos TV _NIN
-
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] MOVIE _GROUP
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] ZQ DRAMA _GROUP
-http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] ZEE CLASSIC HD _GROUP
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] ZEE CINEMA _GROUP
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] ZEE CAFE _GROUP
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] &PRIVE _GROUP
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] &FLIX _GROUP
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 
 
