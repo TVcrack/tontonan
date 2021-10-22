@@ -152,6 +152,171 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/ydWxpHdd/16f01924b3993c0a6d70.jpg" group-title="LOCAL",TVRI HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMJvX1pw31OmnmlBq-XIw3-5-Qfuhuk0Pysg&usqp=CAU" , Astro Ria
+http://198.16.106.61:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" ,group-title="malaysia", Astro Prima
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/1f0a0fe99a2d38e5086aa.jpg" ,group-title="malaysia", Astro Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" , group-title="malaysia",Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" ,group-title="malaysia", Naura HD
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/30aae69adef041933dbee.png" ,group-title="malaysia", Astro Xiao Tai Yang HD
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/fbbe10b7738a25d749976.png" ,group-title="malaysia", Astro Shuang Xing 双星台
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/b46b917ba32a0abb9f227.png" , group-title="malaysia",Astro Quan Jia 全佳
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" , group-title="malaysia",Astro Prima CH105
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/1f0a0fe99a2d38e5086aa.jpg" ,group-title="malaysia", Astro Oasis CH106
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" , group-title="malaysia",Astro Citra CH108
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" , Naura HD CH109
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/ceria/home/channellogo-astroceria2.png" , group-title="malaysia",Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/c5cb30b6d28d540a3aaa9.png" ,group-title="malaysia", Suria CH110
+http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://marketingmagazine.com.my/wp-content/uploads/2016/11/Boo_From_Astrothumbnail.jpg" ,group-title="malaysia", Astro BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" , group-title="malaysia",Astro Xuang Xing
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/306-3060926_astroxiaotaiyang-astro-xiao-tai-yang.png" ,group-title="malaysia", Astro Xiao Tai Yang
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDmqpjmh0R5BcyV9CWUubeDiC4HKHog9wOIQ&usqp=CAU" , group-title="malaysia",Bernama TV
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png" ,group-title="malaysia", Drama Sangat
+http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeunk8zsXxPiqk_9Ck04QfqOuPfnWWlKxifg&usqp=CAU" ,group-title="malaysia", TV IKLIM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" ,group-title="Entertainment", HBO Malaysia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1240080611965980672/5g011pTT_400x400.jpg" ,group-title="Entertainment", One
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oPnzAPC.png" ,group-title="Entertainment", Galaxy tv
+https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0B2-DR2iZlIxbT0W57803O00tYWx1VAy1tw&usqp=CAU" , MOVIESPHERE HD
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0B2-DR2iZlIxbT0W57803O00tYWx1VAy1tw&usqp=CAU" , MOVIESPHERE SD
+https://moviesphere-roku.amagi.tv/playlist216lp.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQInLji.png" , My time Movies Network
+https://mytime-tcl.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,MyTime Movie Network
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FiTdDp1.png" , 24 Hour Free Movies
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 ,KIX
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 ,Fear This Classics
+https://linear-153.frequency.stream/dist/localnow/153/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" ,group-title="Entertainment", KBS WORLD
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.jpg" ,group-title="Knowledge", Food Channel
+https://food.vizio.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RuuGNzX.png" , group-title="Knowledge",Food Network
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" , group-title="Knowledge",Animal Planet
+http://31.220.41.88:8081/live/us-animal.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" , group-title="Knowledge",Animal Planet HD Hindi
+https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" ,group-title="Knowledge", Discovery Science
+https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ8LVfl3p1NbdhccN2yPu7HKrFTxKKfx8m3A&usqp=CAU" , group-title="Knowledge",Discovery DMAX IT
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,group-title="Knowledge",History
+http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd?checkedby
+#EXTINF:-1 tvg-logo="http://logo.sltv.site/logo/POLONIA/NATIONALGEO.png" ,group-title="Knowledge", NATIONAL GEOGRAPHIC HD
+http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby
+#EXTINF:-1 tvg-logo="http://logo.sltv.site/logo/POLONIA/NATGEOWILD.png" ,group-title="Knowledge", Nat Geo Wild HD
+http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGHhe3i8G0NkiMEgeKQHSiYbPxaREUbZHjQdM7AnY6F1wxgnjJv4nM0dvh&s=10" ,group-title="Knowledge", Nat Geo People HD
+http://58.65.171.202:8000/play/10503/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" , group-title="Knowledge", People TV
+https://lnc-people-tv.tubi.video/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" , group-title="Knowledge", People TV HD
+https://peopletv-oo.akamaized.net/playlist720p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKA2I8M33-x-FblZR4FDDZtawSmGdp67n8_w&usqp=CAU" ,group-title="Knowledge", Fail Army
+https://failarmy-linear.vizio.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2EAcw8.png" , group-title="Knowledge",People are awesome
+https://jukin-peopleareawesome-1.vizio.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VSiG39E.png" , group-title="Knowledge",Inwild TV
+https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkI2GSj_zAGbtbqZE6b_fmjuo9lSV5aEQmSQ&usqp=CAU" , group-title="Knowledge",Love Nature HD
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkI2GSj_zAGbtbqZE6b_fmjuo9lSV5aEQmSQ&usqp=CAU" , group-title="Knowledge",Love Nature SD
+http://bamus-eng-roku.amagi.tv/playlist404p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqMi5lpkJd3rMgi0sYQXLzVguxY2RNJcwAEw&usqp=CAU" , group-title="Knowledge",Smithsonian Channel HD
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqMi5lpkJd3rMgi0sYQXLzVguxY2RNJcwAEw&usqp=CAU" ,group-title="Knowledge", Smithsonian Channel SD
+https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTblfnHv_IDyyH0Ae7HRCr4CsVhB3Kt0Ei0Tg&usqp=CAU" , group-title="Knowledge",YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2095627144.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SBw828K/f460YQg.png" , group-title="Knowledge",Natural TV
+http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U8GADbT.jpg" ,group-title="Knowledge", Planet Knowledge
+https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/outdoor-channel-us.png" ,group-title="Knowledge", Outdoor Channel HD
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" ,group-title="Knowledge", Outdoor America
+https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8?checkedby:iptvcat.com
+
+ 
+#EXTINF:-1  group-title="Channnel Sport ", Bein Sport HD 1 Premium
+http://znz.bounounras.xyz/live/6161655/index.m3u8
+#EXTINF:-1  group-title="Channnel Sport ", Bein Sport HD 2 Premium
+http://dud.mawanroud.xyz/live/616194987/index.m3u8
+#EXTINF:-1  group-title="Channnel Sport ", Bein Sport HD 3 Premium
+http://kom.koukoiras.xyz/live/6151278887/index.m3u8
+#EXTINF:-1  group-title="Channnel Sport ", Bein Sport Xtra
+ 
+#EXTINF:-1  group-title="Channnel Sport ", Astro SuperSport
+http://iptv.tvmalaysia.cc/penang189/penang189/9024
+#EXTINF:-1  group-title="Channnel Sport ", Astro SuperSport 2
+http://iptv.tvmalaysia.cc/penang189/penang189/9025
+#EXTINF:-1  group-title="Channnel Sport ", Astro SuperSport 3
+http://iptv.tvmalaysia.cc/penang189/penang189/9020
+#EXTINF:-1  group-title="Channnel Sport ", Astro SuperSport 4
+http://iptv.tvmalaysia.cc/penang189/penang189/9026
+
+#EXTINF:-1  group-title="Channnel Sport ", CANAL+ SPORT HD
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Channnel Sport ", ELEVEN SPORT 1 POL
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Channnel Sport ", ELEVEN SPORT 2 POL
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Channnel Sport ", TVP SPORT
+http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1  group-title="Channnel Sport ", UAFOOTBALL 1
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1  group-title="Channnel Sport ", UAFOOTBALL 2
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+#EXTINF:-1  group-title="Channnel Sport ", UAFOOTBALL 3
+https://95-213-224-179.livesports24.online/football3ua.m3u8
+#EXTINF:-1  group-title="Channnel Sport ", KHL PRIME
+https://95-213-224-179.livesports24.online/khlhdru.m3u8
+#EXTINF:-1  group-title="Channnel Sport ", SONY TEN 1 HD
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+#EXTINF:-1  group-title="Channnel Sport ", SONY TEN 2 HD
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+#EXTINF:-1  group-title="Channnel Sport ", SONY TEN 3 HD
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+#EXTINF:-1  group-title="Channnel Sport", SONY SIX HD
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/ngc.png" group-title="Knowledge",National Geographic 
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_big.png" group-title="knowledge",ASIAN FOOD CHANNEL
