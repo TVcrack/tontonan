@@ -11,6 +11,8 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b388400
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vPH3-sSUFyo6QWZlH88woToH714=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/da497a.png" tvg-id=".SHINTA" tvg-name"RCTI _VIDIO" group-title="VIDIO",RCTI _VIDIO
 https://fta.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vPH3-sSUFyo6QWZlH88woToH714=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/da497a.png" tvg-id=".SHINTA" tvg-name"RCTI _VIDIO" group-title="VIDIO",RCTI
+https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vPH3-sSUFyo6QWZlH88woToH714=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/da497a.png" tvg-id=".SHINTA" tvg-name"RCTI _VIDIO" group-title="VIDIO",RCTI cdg
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 
