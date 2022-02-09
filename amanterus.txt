@@ -16,6 +16,48 @@ https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 #EXTINF:-1 tvg-id="rcti" tvg-name="rcti" tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="VIDIO", RCTI CGD
 https://cubmu.superzap.xyz:8279/rcti/playlist.m3u8
 
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
+https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
+https://rcti-linier.rctiplus.id/live/eds/GTV2021/live_fta/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNC TV
+https://rcti-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews
+https://rcti-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/index.m3u8
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png",SCTV
+https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png",Indosiar
+https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png",NET
+https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv.png",ANTV
+http://rr2.dens.tv/s/s07/index3.m3u8
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_one_id.png",TVOne
+http://rr2.dens.tv/s/s105/index3.m3u8
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png",JTV
+https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/ii/idx_channel_id.png",IDX Channel
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png",Metro TV
+http://edge.metrotvnews.com/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/mm/magna-channel-id.png",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_id.png",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmbc-indonesia-us-id.png",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png",Berita Satu News
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png",Berita Satu News World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png",Berita Satu News English
+https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" tvg-id=".SHINTA" tvg-name"SCTV _VIDIO" group-title="LOKAL BARU",SCTV _VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
 
