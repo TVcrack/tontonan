@@ -21,7 +21,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 
 #EXTINF:-1 tvg-id="rcti" tvg-name="rcti" tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="Lokal", RCTI CDG
-https://cubmu.superzap.xyz:8279/rcti/playlist.m3u8
+https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
