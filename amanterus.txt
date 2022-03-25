@@ -11,12 +11,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b388400
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vPH3-sSUFyo6QWZlH88woToH714=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/da497a.png" tvg-id=".SHINTA" tvg-name"RCTI _VIDIO" group-title="VIDIO",RCTI
-https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
-
-#EXTINF:-1 tvg-id="rcti" tvg-name="rcti" tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="VIDIO", RCTI CGD
-https://cubmu.superzap.xyz:8279/rcti/playlist.m3u8
-
-
+https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" tvg-id=".SHINTA" tvg-name"SCTV _VIDIO" group-title="LOKAL BARU",SCTV _VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
