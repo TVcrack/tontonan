@@ -81,10 +81,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/hoS6Jo9rM8wie723mTleODvZjCo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6853/reformed-21-tv-b1db6d.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] Khotbah _VIDIO" group-title="LOKAL BARU",[CODAY] Khotbah _VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f26ecc6e3bc7f5e9c8cf23a7c7a315dd446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/thor-love-and-thunder.154-241020.jpg" group-title="Box Office", Thor: Love and Thunder (2022) https://www.googleapis.com/drive/v3/files/1sjnxWzQ6g-ABbeqX5_ttdJYiif4ThpFI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/thor-love-and-thunder.154-241020.jpg" group-title="Box Office",Thor: Love and Thunder (2022) https://www.googleapis.com/drive/v3/files/1sjnxWzQ6g-ABbeqX5_ttdJYiif4ThpFI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/beast-2022-1.243334.jpg" group-title="Box Office", Beast (2022) https://www.googleapis.com/drive/v3/files/1Jc5UQSIumAtn8AHKmgU3cZXdS1tBwFab?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/pinocchio-2022.245295.jpg" group-title="Box Office", Pinocchio(2022) https://www.googleapis.com/drive/v3/files/1mWAjkkqDPfxB4b6jwjWrNEX6o4FhF7Fa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/alienoid-alien-human-part-1-oegyein-1bu-1.244609.jpg" group-title="Box Office", Alienoid (2022) https://www.googleapis.com/drive/v3/files/1vttbEj5uXcRo7Gwn_MlYlkeNHSQLa-YN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/alienoid-alien-human-part-1-oegyein-1bu-1.244609.jpg" group-title="Box Office",Alienoid (2022) https://www.googleapis.com/drive/v3/files/1vttbEj5uXcRo7Gwn_MlYlkeNHSQLa-YN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/fall-2022.244805.jpg" group-title="Box Office", Fall (2022) https://www.googleapis.com/drive/v3/files/10LvXFPdZ249X-SHFLnWWokP-adSrOaA_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/day-shift.243355.jpg" group-title="Box Office", Day Shift (2022) https://www.googleapis.com/drive/v3/files/1rXIvhjAld4avI5Gru0RZY6BlW9lhwprC?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/samaritan.242852.jpg" group-title="Box Office", Samaritan (2022) https://www.googleapis.com/drive/v3/files/11Coa1u0Jos6Cvs-WUrb4Ay5CY_kDKFJg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -175,7 +175,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/home-sweet-home-alone.223913.jpg" group-title="Box Office", Home Sweet Home Alone (2021) https://www.dropbox.com/s/cnbnuny2s7ofkql/%5BDramaindo.cn%5D%20Home%20Sweet%20Home%20Alone%202021%20%5B720p%20Hardsub%5D.mp4?raw=1
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/army-of-thieves.224557.jpg" group-title="Box Office", Army of Thieves (2021) https://www.googleapis.com/drive/v3/files/1KadIxmL60A0OA2BhTBQKixJm2tC_K1Ug?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2021/05/film-f9-2021-lk21.jpg" group-title="Box Office", F9 Fast & Furious 9 (2021) http://n2086.securepoint.io:25461/movie/ZudaWKj4eP/dQbUQHUZxL/49175.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2oVEWl4.jpg" group-title="Gamers TV",Dunia Games TV https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
+
 
 //LOCAL USEETV - @RiyanCoday
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png?v=2.0.1.16" group-title="useetv",Ruang Trampil _USEETV 
