@@ -171,10 +171,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/resident-evil-welcome-to-raccoon-city.228578.jpg" group-title="Box Office", Resident Evil: Welcome to Raccoon City (2021) https://www.dropbox.com/s/e31a7okl35tre2a/%5BDramaindo.xyz%5D%20Resident%20Evil%20-%20Welcome%20to%20Racoon%20City%20%5B720p%20Hardsub%5D%5BWEBDL%5D.mp4?raw=1
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/shang-chi-and-the-legend-of-the-ten-rings.225699.jpg" group-title="Box Office", Shang-Chi and the Legend of the Ten Rings (2021) https://www.dropbox.com/s/bra454rre3ljy2u/%5BDramaindo.cn%5D%20Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%20%5B720p%20Hardsub%5D%5BBD%5D.mp4?raw=1
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/no-time-to-die.213087.jpg" group-title="Box Office", NO TIME TO DIE (2021) https://www.dropbox.com/s/uu56go6kaqrytcj/%5BDramaindo.cn%5D%20007%20No%20Time%20to%20Die%202021%20%5B720p%20Hardsub%5D%5BWEBDL%5D.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/red-notice.224350.jpg" group-title="Box Office", Red Notice (2021) https://www.dropbox.com/s/m9o5nsqhik4yr0o/%5BDramaindo.cn%5D%20Red%20Notice%202021%20%5B720p%20Hardsub%5D.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/home-sweet-home-alone.223913.jpg" group-title="Box Office", Home Sweet Home Alone (2021) https://www.dropbox.com/s/cnbnuny2s7ofkql/%5BDramaindo.cn%5D%20Home%20Sweet%20Home%20Alone%202021%20%5B720p%20Hardsub%5D.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/army-of-thieves.224557.jpg" group-title="Box Office", Army of Thieves (2021) https://www.googleapis.com/drive/v3/files/1KadIxmL60A0OA2BhTBQKixJm2tC_K1Ug?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2021/05/film-f9-2021-lk21.jpg" group-title="Box Office", F9 Fast & Furious 9 (2021) http://n2086.securepoint.io:25461/movie/ZudaWKj4eP/dQbUQHUZxL/49175.mp4
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/red-notice.224350.jpg" group-title="Box Office",Red Notice (2021) https://www.dropbox.com/s/m9o5nsqhik4yr0o/%5BDramaindo.cn%5D%20Red%20Notice%202021%20%5B720p%20Hardsub%5D.mp4?raw=1
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/home-sweet-home-alone.223913.jpg" group-title="Box Office",Home Sweet Home Alone (2021) https://www.dropbox.com/s/cnbnuny2s7ofkql/%5BDramaindo.cn%5D%20Home%20Sweet%20Home%20Alone%202021%20%5B720p%20Hardsub%5D.mp4?raw=1
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/army-of-thieves.224557.jpg" group-title="Box Office",Army of Thieves (2021) https://www.googleapis.com/drive/v3/files/1KadIxmL60A0OA2BhTBQKixJm2tC_K1Ug?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 
 
 //LOCAL USEETV - @RiyanCoday
