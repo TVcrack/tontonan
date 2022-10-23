@@ -119,8 +119,8 @@ https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist.m3u8
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://eagle.industry.co.id/uploads/berita/detail/1103.png" group-title="LOKAL", tesss
 https://ad2017.vhls.ru.com/lb/premium98/index.m3u8?|referer=https://widevine.licenses4.me/&amp;User-agent=REDLINECLIENT
- 
- 
+
+
 #EXTINF:-1 tvg-id="AstroBollyOneHD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png" group-title="Astro Malaysia",Astro BollyOne (720p)
 http://172.96.160.37:9138/stream/live/c21016.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Astro Malaysia",Unifi Sport1
@@ -196,7 +196,7 @@ http://51.79.82.208:16009?shareext.ts
 http://51.79.82.208:16008?shareext.ts
 #EXTINF:-1 tvg-id="AstroBoxOfficeThangathirai.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="Astro Malaysia",Astro Box Office Movies Thangathirai (720p)
 http://mynxg.top:8080/play/live.php?mac=00:1A:79:B8:94:68&stream=130705&extension=ts
- 
+
 #EXTINF:-1 tvg-id="" tvg-name="https://images.solopos.com/2022/03/rsz_kkn.jpg" group-title="Movies",KKN Desa Penari
 #http://iptv12k.com:35461/movie/80301051401/878900/6099.mp4
 #EXTINF:-1 tvg-id="" tvg-name="https://i0.wp.com/mikirtekno.com/wp-content/uploads/2021/03/MKCTV-GO-Apk.png" group-title="Movies",MKC Movie
@@ -291,7 +291,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/andflix-logo.jpg" group-title="Movies", &Flix
 http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/playlist.m3u8
 #http://z5amshls.akamaized.net/andflix/tracks-v1a1/playlist.m3u8
- 
+
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://images.useetv.com/logo_ruangtrampil_small.png?v=2.0.1.16",Buka Chanel Ini dulu baru buka TVN dan chanel_USEE
 #http://gpc.my.id/usee/useephoto.m3u8
 #EXTINF: -1 tvg-logo="http://mkctvnew.my.id/wp-content/uploads/2020/07/cropped-mkcfc.jpg" group-title="KOREA", KOREA DRAMA
@@ -307,8 +307,8 @@ http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 http://180.211.90.134:8000/play/a084
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="KOREA", K PLUS
 http://198.16.64.10:8278/Ohk/playlist.m3u8?tid=MF4F8315986583159865&ct=19225&tsum=ca2352c9f1852dd9395c2bd259afe372
- 
- 
+
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://bsg-i.nbxc.rarscom/product/fc/e4/68/cad0fab3771a94415f8c1582fb.jpg",Boxing
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/Logo_Liga_Futsal_Profesional_Indonesia.png",Futsal AFC
 #EXTINF:-1 group-title="Sports" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2022/06/645x430/20220606_konpers-pia_598e684.jpg",Piala Presiden
@@ -466,8 +466,8 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-logo="https://prtimes.jp/i/14079/329/resize/d14079-329-732232-2.jpg"group-title="Sports",J Sports 4
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
- 
- 
+
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/550x/57/36/2e/57362ecf519fb8519f3f0e4d5272c310.jpg"group-title="Feed Sports", Liga Indo Ch1
 http://golive.yn.lt:80/live/bola/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/550x/57/36/2e/57362ecf519fb8519f3f0e4d5272c310.jpg"group-title="Feed Sports", Liga Indo Ch2
@@ -480,7 +480,7 @@ https://playlist.localiptv.tk/Serie_A_CHANNEL_1.m3u8
 https://playlist.localiptv.tk/LaLiga_CHANNEL_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/550x/57/36/2e/57362ecf519fb8519f3f0e4d5272c310.jpg"group-title="Feed Sports", Liga Laliga 2
 https://skjattagrp.ml/SFGsIA.m3u8
- 
+
 #EXTINF: -1 tvg-logo="https://cdn-image.hipwee.com/wp-content/uploads/2017/11/hipwee-musik-indonesia-600x422.jpg" group-title="MUSIC",Musik 24 Jam
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #https://gratismkctv.net/tadi/pop.m3u8
@@ -538,8 +538,8 @@ http://iptvid.my.id/hmm/babyfirst.m3u8
 http://iptvid.my.id/hmm/indikids.m3u8
 #EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="KIDS", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
- 
- 
+
+
 #EXTINF: -1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="KNOWLEDGE", Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/07/History_channel_us.png" group-title="KNOWLEDGE", Histori Indo
@@ -758,876 +758,829 @@ http://live.beetecmedia.com:1936/live/erjetv/playlist.m3u8
 http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="TV Islam", ASWAJA
 http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV1
 http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV2
 http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV3
 http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV4
 http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV5
 http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV5+
 http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV4K
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV13
 http://39.134.155.143/PLTV/88888888/224/3221225597/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV4美洲
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=1
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV4欧洲
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=1
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV6
 http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV7
 http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV8
 http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV9
 http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV10
 http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV11
 http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV12
 http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV13
 http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV14
 http://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV15
 http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV17
 http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CNC 中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CNC 英文
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,凤凰中文
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,凤凰资讯
 http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,凤凰香港
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,翡翠台
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,翡翠台 720P
 http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,无线新闻台
 http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,无线新闻台 SD
 http://livetv.dnsfor.me:80/channel.10.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,J2
 http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,无线财经资讯台
 http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,无线财经资讯台 SD
 http://livetv.dnsfor.me:80/channel.11.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,明珠台
 http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,Viu TV
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,ViuTVsix
 http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NOW直播台
 http://livetv.dnsfor.me:80/channel.3.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NOW新闻台
 http://livetv.dnsfor.me:80/channel.4.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,Astor AOD
 http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,RTHK31
 http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,RTHK32
 http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,RTHK33
 http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,TVB星河频道
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,有线财经资讯台
 https://api.leonardpark.dev/live/icable/108
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,有线新闻台
 https://api.leonardpark.dev/live/icable/109
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,澳視衛視
 http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,澳视澳门
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,澳门综艺
 http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,澳门资讯
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,民视
 http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,民视台湾台
 http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,中天新聞HD
 http://seb.sason.top/sc/ztxw_fhd.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,三立台湾台
 http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,爱尔达综合
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,爱尔达影剧
 http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,纬来日本台
 http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,纬来精彩台
 http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,纬来电影台
 http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,纬来体育台
 http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,纬来戏剧台
 http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,FOX
 http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,KBS World50
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,国家地理野生频道
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,动物星球
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,HGTV居家乐活
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,TVBS新闻台
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,香港C+
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,香港卫视文旅
 https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,经典功夫台
 http://103.140.229.13/BOBO/bibi.php?id=21715386
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,天映经典
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,BBC Lifestyle
 http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,Discovery Eve
 http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,美食星球
 http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,FoodNetwork美食台
 http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,Astro 双星
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,Arirang Korea
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NHK
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,BBCWorldNews
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,tvN
 https://pass.my.id/tvn.m3u8?token=2780903396927260927
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,Sony One50
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,Outdoor
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,香港开电视
 http://livetv.dnsfor.me:80/channel.9.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,澳门-MACAU
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,RTHK31
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,RTHK32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,耀才财经
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,凤凰资讯
 http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,凤凰资讯
 http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,凤凰香港
 http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,凤凰资讯
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?epg=tvmao-600?回看=http://72ltw.xyz/zcjwx/PLTV/zjhk.php?id=6491.smil
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,凤凰资讯
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NOW Sport
 http://livetv.dnsfor.me:80/channel.12.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,ASTRO SPORT 1
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,ASTRO SPORT 2
 http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,ASTRO SPORT 3
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,ASTRO SPORT 4
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,有線奧運601台
 https://www.navchina.cf/IPTV/icable.php?id=61#https://api.leonardpark.dev/live/icable/601
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,有線奧運602台
 https://www.navchina.cf/IPTV/icable.php?id=62#https://api.leonardpark.dev/live/icable/602
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,有線高清603台
 https://www.navchina.cf/IPTV/icable.php?id=63#https://api.leonardpark.dev/live/icable/603
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,有線奧運604台
 https://www.navchina.cf/IPTV/icable.php?id=64#https://api.leonardpark.dev/live/icable/604
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,有線奧運605台
 https://www.navchina.cf/IPTV/icable.php?id=65#https://api.leonardpark.dev/live/icable/605
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,魅力足球
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,五星体育
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,新视觉
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CHC家庭电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,SiTV动漫秀场FHD
 http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,SiTV都市剧场FHD
 http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,SiTV欢笑剧场FHD
 http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,HBOSignature
 http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,FOXCRIME
 http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,FOXActionMovies
 http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,FoxFamilyMovies
 http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,FOXLife
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,HBOHD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,Nickelodeon
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,Nick Jr
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,Baby TV
 http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,Kids TV
 http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CBeebies
 http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,Disney Channel
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,Disney Junior
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,芒果TV 4K
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,爱上4K
 http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV1
 http://111.26.225.22/PLTV/2/224/3221225640/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV2
 http://117.169.120.140:8080/live/cctv-2/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV3
 http://117.169.120.140:8080/live/cctv-3/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV4
 http://117.169.120.140:8080/live/cctv-4/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV5+
 http://39.134.65.162/PLTV/88888888/224/3221225507/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV6
 http://117.169.120.140:8080/live/cctv-6/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV10
 http://117.169.120.140:8080/live/cctv-10/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV11
 http://39.134.65.162/PLTV/88888888/224/3221225517/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV15
 http://39.134.65.162/PLTV/88888888/224/3221225513/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV17
 http://39.134.155.219/PLTV/88888888/224/3221225675/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,凤凰中文
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,凤凰资讯
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV精品大剧
 http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227618/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,浙江卫视
 http://111.26.225.22/PLTV/2/224/3221225652/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,东方卫视
 http://39.134.155.165/PLTV/88888888/224/3221225613/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,深圳卫视
 http://117.169.120.140:8080/live/hdshenzhenstv/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,北京卫视
 http://39.134.155.195/PLTV/88888888/224/3221225607/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,山东卫视
 http://117.169.120.140:8080/live/hdshandongstv/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,贵州卫视
 http://39.134.65.162/PLTV/88888888/224/3221225576/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,四川卫视
 http://117.169.120.135:8080/live/sichuanstv/1.m3u8?icpid=88888929&from=79102&hms_devid=432,488&online=1581219553&vqe=3
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,云南卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225853/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,黑龙江卫视
 http://39.134.155.165/PLTV/88888888/224/3221225601/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,安徽卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225844/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,河北卫视
 http://39.134.155.143/PLTV/88888888/224/3221225627/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,江西卫视
 http://117.169.120.140:8080/live/jiangxistv/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,湖北卫视
 http://117.169.120.140:8080/live/hdhubeistv/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,海南卫视
 http://39.134.65.162/PLTV/88888888/224/3221225530/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,陕西卫视
 http://39.134.155.217/PLTV/88888888/224/3221225608/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,东南卫视
 http://117.169.120.140:8080/live/dongnanstv/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,吉林卫视
 http://117.169.120.140:8080/live/jilinstv/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,辽宁卫视
 http://39.134.65.162/PLTV/88888888/224/3221225499/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,内蒙古卫视
 http://117.169.120.140:8080/live/neimenggustv/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,湖南卫视
 http://39.134.65.162/PLTV/88888888/224/3221225506/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,广东卫视
 http://39.134.155.205/PLTV/88888888/224/3221225561/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,河南卫视
 http://111.26.225.22/PLTV/2/224/3221225575/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,山西卫视
 http://117.169.120.140:8080/live/shanxistv/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV金牌综艺
 http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,山东教育
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225873/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,兵团卫视
 http://39.134.155.177/PLTV/88888888/224/3221225691/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,优漫卡通
 http://39.134.65.162/PLTV/88888888/224/3221225556/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,卡酷动画
 http://39.134.65.162/PLTV/88888888/224/3221225562/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,金鹰卡通
 http://39.134.65.162/PLTV/88888888/224/3221225561/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,三沙卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227002/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,青海卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225841/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTVF
 https://livefr.cgtn.com/200f/prog_index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV军事评论
 http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227544/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,新疆卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226971/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,西藏卫视
 http://117.169.120.142:8080/live/xizangstv/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV动作电影
 http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227606/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,重庆卫视
 http://39.134.155.149/PLTV/88888888/224/3221225632/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,重庆公共农村
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,重庆少儿
 http://stream.guihet.com/t/youkulive.php?id=8108856
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,重庆科教
 http://stream.guihet.com/t/youkulive.php?id=8125100
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,重庆生活资讯
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226359/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,IPTV5+
 http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV明星大片
 http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV农业致富
 http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227588/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV1
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV2
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV3
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV4
 http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV5
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV5+
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV6
 http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV7
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV8
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV9
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV10
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV11
 http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV12
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV13
 http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV14
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV15
 http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CCTV17
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CETV1
 http://183.207.248.71:80/cntv/live1/n-jiaoyutv/n-jiaoyutv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CETV2
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv2/SD-4000k-576P-jiaoyutv2
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,CETV4
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv4/SD-4000k-576P-jiaoyutv4
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,广东卫视
 http://183.207.248.71:80/cntv/live1/n-guangdongstv/n-guangdongstv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,东南卫视
 http://183.207.248.71:80/cntv/live1/n-dongnanstv/n-dongnanstv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,东方卫视
 http://183.207.248.71:80/cntv/live1/n-dongfangstv/n-dongfangstv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,北京卫视
 http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,北京纪实
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,南方卫视
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-nanfangstv/SD-4000k-576P-nanfangstv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,厦门卫视
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-xiamenstv/SD-4000k-576P-xiamenstv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,天津卫视
 http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,安徽卫视
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-anhuistv/HD-8000k-1080P-anhuistv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,山东卫视
 http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,江苏卫视
 http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,江西卫视
 http://183.207.248.71:80/cntv/live1/jiangxistv/jiangxistv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,河北卫视
 http://183.207.248.71:80/cntv/live1/n-hebeistv/n-hebeistv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,浙江卫视
 http://183.207.248.71:80/cntv/live1/zhejiangstv/zhejiangstv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,深圳卫视
 http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,湖北卫视
 http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,湖南卫视
 http://183.207.248.71:80/cntv/live1/hunanstv/hunanstv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,重庆卫视
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,黑龙江卫视
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-heilongjiangstv/HD-8000k-1080P-heilongjiangstv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,四川卫视
 http://183.207.248.71:80/cntv/live1/n-sichuanstv/n-sichuanstv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,云南卫视
 http://183.207.248.71:80/cntv/live1/n-yntv1/n-yntv1
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,宁夏卫视
 http://183.207.248.71:80/cntv/live1/n-ningxiastv/n-ningxiastv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,兵团卫视
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-bingtuanstv/SD-4000k-576P-bingtuanstv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,内蒙古卫视
 http://183.207.248.71:80/cntv/live1/n-neimenggustv/n-neimenggustv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,农林卫视
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-nonglinstv/SD-4000k-576P-nonglinstv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,山西卫视
 http://183.207.248.71:80/cntv/live1/n-shanxistv/n-shanxistv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,广西卫视
 http://183.207.248.71:80/cntv/live1/n-guangxistv/n-guangxistv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,康巴卫视
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-kambatv/SD-4000k-576P-kambatv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,延边卫视
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-yanbianstv/SD-4000k-576P-yanbianstv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,新疆卫视
 http://183.207.248.71:80/cntv/live1/n-xjtv1/n-xjtv1
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,甘肃卫视
 http://183.207.248.71:80/cntv/live1/n-gansustv/n-gansustv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,安多卫视
 http://183.207.248.71:80/cntv/live1/anduostv/anduostv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,西藏卫视
 http://183.207.248.71:80/cntv/live1/n-xizangstv/n-xizangstv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,贵州卫视
 http://183.207.248.71:80/cntv/live1/n-guizhoustv/n-guizhoustv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,河南卫视
 http://183.207.248.71:80/cntv/live1/henanstv/henanstv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,辽宁卫视
 http://183.207.248.71:80/cntv/live1/liaoningstv/liaoningstv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,陕西卫视
 http://183.207.248.71:80/cntv/live1/n-shanxi1stv/n-shanxi1stv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,青海卫视
 http://183.207.248.71:80/cntv/live1/n-qinghaistv/n-qinghaistv
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,纪实人文
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,山东教育电视台
 http://183.207.248.71:80/cntv/live1/n-shandongjy/n-shandongjy
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV世界搏击
 http://183.207.248.71:80/cntv/live1/n-bokesen/n-bokesen
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV健康有约
 http://183.207.248.71:80/cntv/live1/n-ljiankangyouyue/n-ljiankangyouyue
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV军事评论
 http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV古装剧场
 http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV军旅剧场
 http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV农业致富
 http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV动作电影
 http://183.207.248.71:80/cntv/live1/n-dongzuody/n-dongzuody
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV家庭剧场
 http://183.207.248.71:80/cntv/live1/n-jiatingjc/n-jiatingjc
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV惊悚电影
 http://183.207.248.71:80/cntv/live1/n-jingsongxy/n-jingsongxy
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV潮妈辣婆
 http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV炫舞未来
 http://183.207.248.71:80/cntv/live1/HD-4000k-1080P-xwwl/HD-4000k-1080P-xwwl
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV爱情喜剧
 http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV精品体育
 http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV精品大剧
 http://183.207.248.71:80/cntv/live1/n-jdaju/n-jdaju
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV精品纪录
 http://183.207.248.71:80/cntv/live1/n-jingpinjl/n-jingpinjl
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV金牌综艺
 http://183.207.248.71:80/cntv/live1/n-saishijx/n-saishijx
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV中国功夫
 http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV热播精选
 http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV精品综合
 http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV黑莓电竞之夜
 http://183.207.248.71:80/cntv/live1/wmyx/wmyx
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV黑莓电影
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,NewTV黑莓动画
 http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,卡酷少儿
 http://183.207.248.71:80/cntv/live1/n-kakukaton/n-kakukaton
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,嘉佳卡通
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiajiakaton/SD-4000k-576P-jiajiakaton
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,炫动卡通
 http://183.207.248.71:80/cntv/live1/n-xuandongkaton/n-xuandongkaton
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,金鹰卡通
 http://183.207.248.71:80/cntv/live1/n-jinyingkaton/n-jinyingkaton
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,优漫卡通
 http://183.207.248.71:80/cntv/live1/n-youmankaton/n-youmankaton
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,中华美食
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-zhmeishi/SD-4000k-576P-zhmeishi
- 
+
 #EXTINF:-1   tvg-logo="https://www.eliamep.gr/wp-content/uploads/2012/08/CCTV_logo.png" group-title="CCTV",,纯享4K
 http://183.207.248.71:80/cntv/live1/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k
- 
-
-
-
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",[CODAY] MOVIE _GROUP
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
-https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
-https://rcti-linier.rctiplus.id/live/eds/GTV2021/live_fta/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNC TV
-https://rcti-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews
-https://rcti-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png",Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png",SCTV
-https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png",Indosiar
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png",NET
-https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv.png",ANTV
-http://rr2.dens.tv/s/s07/index3.m3u8
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_one_id.png",TVOne
-http://rr2.dens.tv/s/s105/index3.m3u8
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png",JTV
-https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/ii/idx_channel_id.png",IDX Channel
-https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png",Metro TV
-http://edge.metrotvnews.com/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/mm/magna-channel-id.png",Magna Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_id.png",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmbc-indonesia-us-id.png",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png",Berita Satu News
-https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png",Berita Satu News World
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png",Berita Satu News English
-https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
 
 
 #EXTINF:-1 group-title="BIOSKOP 21" tvg-logo="https://i.imgur.com/M8YV19x.jpg",Action: 1.Vanquish (2021)
