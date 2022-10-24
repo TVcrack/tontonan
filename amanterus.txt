@@ -31,13 +31,9 @@ http://54.151.201.145:5566/GG/Live/GtV/mpegts
 #https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="LOKAL",RCTI
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
-#https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="LOKAL",RCTI FHD
-http://203.77.246.50:5000/udp/239.1.3.80:5000
-#http://iptv12k.com:35461/8022022301/468985/2185
-#https://tv.idxchannel.com/jeeH6Tahduy0Leenie8yiquuothe1ipe/rcti.m3u8
-#http://iptv12k.com:35461/8022022301/468985/2185
-#http://8.215.64.236:8866/live?channel_id=7498&mkctv.ts
+https://tv.idxchannel.com/jeeH6Tahduy0Leenie8yiquuothe1ipe/rcti.m3u8
+
 #EXTINF: -1 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="LOKAL", RCTI
 #http://mkctvnew.my.id/siap/rcti.m3u8
 #http://gpc.my.id/vidio/rcti.m3u8
