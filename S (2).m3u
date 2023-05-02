@@ -101,11 +101,9 @@ https://v3.siar.us/surabayatv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/yvgbxTz.png",SCTV
-https://k.ksa.my.id/ksa.m3u8?a=c503fc6c5f0efeac6080&b=16c98dda3ce86e1907df&c=aa3a68bfd25acb92fcc7
 http://210.210.155.37/qwr9ew/s/s03/01.m3u8
  
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/si1SO98.jpg",Indosiar
-https://k.ksa.my.id/ksa.m3u8?a=33cbc98636ea6b2b4a28&b=a457cd239f7e72b12c6d&c=fe251b8cbf412cf05603
 http://210.210.155.37/qwr9ew/s/s04/01.m3u8
  
 
