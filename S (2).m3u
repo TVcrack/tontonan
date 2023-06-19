@@ -1,14 +1,6 @@
 #EXTM3U
 
-#EXTM3U
- 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://weareblahs.github.io/epg/mytv.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,http://epg.51zmt.top:8000/e.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" refresh="3600"
- 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLGaU1KMQgxoIh2j1_ImyeCiOoQsMxrfqua1ME0XUjJ3zPymgw6Iq-a7IP_alub9Ecmmzz-noEJMNybjjDkJ0yWxwjC_GrGPM9ZXg7op7l3FSfiBULKLGXMWuPBcbfIekvdRC5tbLXYxgQRGQtLqBY6guPnrzlRA3ZtLxgH6okHEhatDEOMRWSjnRB9A/s1600/bri%20%281%29.jpg" group-title="BRI Liga 1",LIVE 1
-http://golive.yn.lt/live/liga1/01.m3u8
- 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLGaU1KMQgxoIh2j1_ImyeCiOoQsMxrfqua1ME0XUjJ3zPymgw6Iq-a7IP_alub9Ecmmzz-noEJMNybjjDkJ0yWxwjC_GrGPM9ZXg7op7l3FSfiBULKLGXMWuPBcbfIekvdRC5tbLXYxgQRGQtLqBY6guPnrzlRA3ZtLxgH6okHEhatDEOMRWSjnRB9A/s1600/bri%20%281%29.jpg" group-title="BRI Liga 1",LIVE 2
-http://golive.yn.lt/live/liga1/05.m3u8
+
  
 #EXTINF:-1 group-title="Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtd2jMcRg9hsIp69qaugXjd3pv0CLcHP6cINe-8DZ6jMKoM3YJYIjgQh3hdO6n9NyaPiYtHdI8xQJ-LZYLo4b7vZeBzFYh8fRneJw-AM3_NebKQUgHIWkalWzH2dHU3e4BCWUPxdRqYWxYrNMIpWLH6DqrYplHWl56pLd0Td5lMbk9zwtsnCgJoXyKbw/s1600/tvri%20sport%20%281%29.jpg",TVRI Sport HD
 http://210.210.155.35/qwr9ew/s/s107/index.m3u8
