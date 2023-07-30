@@ -100,6 +100,9 @@ http://210.210.155.37/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/si1SO98.jpg",Indosiar HD
 https://github.com/mimipipi22/nontontv/raw/main/FMX/indosiar.m3u8
+
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/si1SO98.jpg",Indosiar HD M
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880788
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -425,31 +428,31 @@ https://anevia115.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Cinemachi.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi.png",Cinemachi HD
-https://punya.mammothtv.my.id/vision/cinemachi.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="CinemachiAction.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-action.png",Cinemachi Action HD
-https://punya.mammothtv.my.id/vision/cinemachi-action.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="CinemachiXtra.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-xtra.png",Cinemachi Xtra HD
-https://punya.mammothtv.my.id/vision/cinemachi-xtra.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="CinemachiKids.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-kids.png",Cinemachi Kids HD
-https://punya.mammothtv.my.id/vision/cinemachi-kids.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="CinemachiMax.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-max.png",Cinemachi Max HD
-https://punya.mammothtv.my.id/vision/cinemachi-max.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="SonyPix.in" tvg-logo="https://i.postimg.cc/bJHjcpzW/20220927-135948.png",SONY PIX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
