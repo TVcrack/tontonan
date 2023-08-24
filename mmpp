@@ -1497,10 +1497,6 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79464&extens
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/skycinemascifiandhorror.png" group-title="MOVIES",Sky Cinema SCI-FI
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79463&extension=ts&play_token=rf5b8r8qco
 
-#EXTINF:-1  group-title="MOVIES" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d6dd1f934c75182cb6ac60b311ad8183.png",Playboy
-http://23.237.100.82:8000/PLAYBOY/index.m3u8
-#EXTINF:-1  group-title="MOVIES" tvg-logo="",Penthouse
-http://23.237.100.82:8000/PENTHOUSE/index.m3u8
 
 
 ########################## MUSIC ##########################
