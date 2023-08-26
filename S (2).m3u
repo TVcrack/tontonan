@@ -98,11 +98,8 @@ http://210.210.155.37/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/si1SO98.jpg",Indosiar
 http://210.210.155.37/qwr9ew/s/s04/01.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/si1SO98.jpg",Indosiar HD
-https://github.com/mimipipi22/nontontv/raw/main/FMX/indosiar.m3u8
-
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/si1SO98.jpg",Indosiar HD M
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880788
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/si1SO98.jpg",Indosiar HD 
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
