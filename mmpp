@@ -1,13 +1,4 @@
-#EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg.xml" 
-#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" 
-#EXTM3U x-url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml" 
-#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml" 
-#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
-#EXTM3U x-url-tvg="https://strimz.my.id/epg"
-#EXTM3U url-tvg="https://strimz.my.id/epg"
-
-#########################   LIVE EVENT   ##############################
-#######################################################################
+#EXTM3U
 
 #EXTINF:-1 tvg-id=" tvg-name="AFF U23" tvg-logo="https://i.postimg.cc/Hst0FDx5/AFFU23.jpg" group-title="LIVE EVENT",AFF u23 
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b2196000_sleng.m3u8
