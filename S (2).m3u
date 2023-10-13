@@ -156,8 +156,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 http://210.210.155.37/uq2663/h/h06/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-id="ANTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/ANTV.png" group-title="Indonesia Channels",ANTV
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
