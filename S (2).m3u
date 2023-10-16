@@ -113,6 +113,9 @@ https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="Indonesia Channels",TransTV HD
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/transtv.m3u8
  
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="Indonesia Channels",Moji
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
