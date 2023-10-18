@@ -520,7 +520,33 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/crimeinvestigation.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cgtndocumentary.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.smithsonianchannel.ca/wp-content/uploads/2018/10/SMC_HORIZ_logo_WHITE.png" group-title="Knowledge & Documentary",SMITHSONIAN CHANNEL
-https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3e7d43bedbb508318fbef3d99aa56732.png" group-title="Knowledge & Documentary",Da Vinci (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/davinci.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Knowledge & Documentary" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501324_tvchannels_v1.jpg", Dens Learning & Knowledge
+http://210.210.155.35/x6bnqe/s/s36/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Dens_Learning_n_Knowledge
+https://op-group1-swiftservesd-1.dens.tv/s/s36/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Dens_Learning_n_Knowledge
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/097b4bac30f2eb60f13cfe548b188067.png" group-title="Knowledge & Documentary",Discovery Science*
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/discien.m3u8
+
+#EXTINF:-1 tvg-id="NASATVPublic.us" url-tvg="" tvg-country="US" tvg-language="English" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="Knowledge & Documentary",NASA TV 
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="Knowledge & Documentary",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Knowledge & Documentary", Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Knowledge & Documentary", Love Nature 4K*
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+
+
 
 <=================== Entertainment & Lifestyle =============================>
 
