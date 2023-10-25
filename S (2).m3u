@@ -116,9 +116,16 @@ http://tvkuonline.my.id:25461/riyad/riyad/24
  
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="SCTV.id" tvg-name="SCTV", SCTV 
 https://iptvme.xyz/vid/hls.m3u8?id=204
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png", SCTV(vidio)
+#http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162141
+https://iptvme.xyz/vid/hls.m3u8?id=204
  
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar HD 
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR(Vidio)
+http://tvkuonline.my.id:25461/riyad/riyad/14
  
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png",Kompas TV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/kompastv.m3u8
