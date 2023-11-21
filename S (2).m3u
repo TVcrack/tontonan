@@ -16,6 +16,24 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd|
 #EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://anutv.xyz/gambar/bri.jpg" group-title="[LIVE] Liga INDO", LIVE IDN 3
 https://anutv.xyz/live/indo/liga1.m3u8
 
+#EXTINF:-1 group-title="U17" tvg-logo="https://dl.dropbox.com/scl/fi/dmxw60zt6a8rur86zra94/Worldcup-u17.jpeg?rlkey=4xpgmwndqm4plllg01jwy79n9&dl=0", (ASSP 1 HD) ⚽ world cup U17
+http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=918986&extension=ts&play_shareext@assp1_my
+
+#EXTINF:-1 group-title="U17" tvg-logo="https://dl.dropbox.com/scl/fi/dmxw60zt6a8rur86zra94/Worldcup-u17.jpeg?rlkey=4xpgmwndqm4plllg01jwy79n9&dl=0", (ASSP 1 FHD) ⚽ world cup U17
+https://sc2022.stream-link.org/tv2306.php?id=s19
+
+#EXTINF:-1 group-title="U17" tvg-logo="https://dl.dropbox.com/scl/fi/dmxw60zt6a8rur86zra94/Worldcup-u17.jpeg?rlkey=4xpgmwndqm4plllg01jwy79n9&dl=0", (ASSP 2 HD) ⚽ world cup U17
+http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=918985&extension=ts&play_shareext@assp2_my
+
+#EXTINF:-1 group-title="U17" tvg-logo="https://dl.dropbox.com/scl/fi/dmxw60zt6a8rur86zra94/Worldcup-u17.jpeg?rlkey=4xpgmwndqm4plllg01jwy79n9&dl=0", (ASSP 2 FHD) ⚽ world cup U17
+https://sc2022.stream-link.org/tv2306.php?id=s20
+
+#EXTINF:-1 group-title="U17" tvg-logo="https://dl.dropbox.com/scl/fi/dmxw60zt6a8rur86zra94/Worldcup-u17.jpeg?rlkey=4xpgmwndqm4plllg01jwy79n9&dl=0", (ASSP 3 FHD) ⚽ world cup U17
+https://sc2022.stream-link.org/tv2306.php?id=s21
+
+#EXTINF:-1 group-title="U17" tvg-logo="https://dl.dropbox.com/scl/fi/dmxw60zt6a8rur86zra94/Worldcup-u17.jpeg?rlkey=4xpgmwndqm4plllg01jwy79n9&dl=0", (ASSP 4 FHD)v⚽ world cup U17
+https://sc2022.stream-link.org/tv2306.php?id=s22
+
 <====================== Indonesia Channel ======================>
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rcti.jpg" group-title="Indonesia Channels",RCTI
