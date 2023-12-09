@@ -105,17 +105,17 @@ http://tvkuonline.my.id:25461/riyad/riyad/24
 http://103.166.27.2:8112/play/a015
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png", SCTV(vidio)
-https://mantul.biz.id:443/ekos/748382/32.ts
- 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR HD
-https://mantul.biz.id:443/ekos/748382/5286.ts
+https://iptv.febianmart.com/play.m3u8?id=sctv
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png" group-title="LOKAL", SCTV digital
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR(Vidio)
-https://mantul.biz.id:443/ekos/748382/5286.ts
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="Indonesia Channels", Indosiar (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://bit.ly/3MeFJVc
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
