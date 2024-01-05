@@ -105,10 +105,10 @@ http://tvkuonline.my.id:25461/riyad/riyad/24
 http://103.166.27.2:8112/play/a015
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png", SCTV(vidio)
-https://iptv.febianmart.com/play.m3u8?id=sctv
+http://iptvtree.net:8080/F26646/f950f250/162141
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png" group-title="LOKAL", SCTV digital
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR(Vidio)
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
