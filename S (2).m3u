@@ -498,6 +498,27 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0117/DASH/V0117.mpd
 #KODIPROP:inputstream.adaptive.license_key=b541612bcb4598f60c4efc1733b5d8c9:7e6d2819c0912a204fd5478f8a60d1b5
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0118/DASH/V0118.mpd
 
+#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png" group-title="Premium Movies",HBO
+#http://myteve.online:8080/Abraham/6b3ca724a0/197972
+https://s.id/hbo_shareext-m3u8|User-Agent=Shareext/5.0
+ 
+#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png" group-title="Premium Movies",Hbo Hits
+#http://myteve.online:8080/Abraham/6b3ca724a0/196480
+https://s.id/hbohits_shareext-m3u8|User-Agent=Shareext/5.0
+ 
+#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/99u866yr2c6qs8n/hbofamily.png" group-title="Premium Movies",Hbo family
+#http://myteve.online:8080/Abraham/6b3ca724a0/197055
+https://s.id/hbofam_shareext-m3u8|User-Agent=Shareext/5.0
+ 
+#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/eh9nlf20uhc9xbg/hbosignature.png" group-title="Premium Movies",Hbo signature
+#http://myteve.online:8080/Abraham/6b3ca724a0/221948
+https://s.id/hbosig_shareext-m3u8|User-Agent=Shareext/5.0
+ 
+#EXTINF:-1 group-title="Premium Movies" tvg-id="cinemaxasia.sg" tvg-logo="https://dl.dropboxusercontent.com/s/7o66wychx4m2wmo/cinemax.png",Cinemax
+http://myteve.online:8080/Abraham/6b3ca724a0/197964
+https://s.id/cinemax_shareext-m3u8|User-Agent=Shareext/5.0
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
