@@ -236,8 +236,9 @@ https://live.sukabumi.tv:5443/LiveApp/streams/208647268646746749847667.m3u8
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 10.0; Win6 x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://5bf7b725107e5.streamlock.net/wmtv/wmtv/playlist.m3u8
  
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyDyhACrIJ2p9P52jspqq78QK0r0xefp1P8RDKCudQBOlHX2JrKtasirmE1SHqG8FurLMqfJVe-4y8QfFafqsgg-r6TRPaaH51qgvOZu7gcxsW9pIZV1OysK3t7WukSlsJTbsMirZ8QQLGjZq2-cFFT2WkRrXOhRdTGHDtRnDLGO3jYNu7DLGfeUcaUg/s1600/moji%20%281%29.jpg",Moji
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/206.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://dl.dropboxusercontent.com/s/ja4t9tvfvk4oupi/moji.png", MOJI dens
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
  
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEliPldyuuJFdapnzelGY3xc-7_39bjfpfMAHRCvP7PVZf8W4JZvoDA97T1vvJd7EhLjG1CmZqeKMk0MaN153CDpu4uJrMNeuX6Tamoj4UVcnPgSyvGZrwL5F63At9kWffWZJ2pnR6oiKvG0oi5rlOP4cjEdHOEuvwFS7EHV3VoZk4eLDlqfWYXkoOqQ/s1600/nusantara.jpg",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
