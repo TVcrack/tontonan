@@ -45,6 +45,9 @@ http://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/p4813vn2o8275z1/trans7.png", TRANS 7
 http://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="TRANS 7 HD" tvg-logo="https://dl.dropboxusercontent.com/s/p4813vn2o8275z1/trans7.png" group-title="Indonesia Channels", TRANS 7 HD
+http://103.113.116.150:25461/mtm1/12345/1
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
