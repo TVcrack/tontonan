@@ -504,7 +504,11 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0118/DASH/V0118.mpd
 
 #EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png" group-title="Premium Movies",HBO
 #http://myteve.online:8080/Abraham/6b3ca724a0/197972
-https://s.id/hbo_shareext-m3u8|User-Agent=Shareext/5.0
+#https://s.id/hbo_shareext-m3u8|User-Agent=Shareext/5.0
+http://103.113.116.150:25461/mtm1/12345/16
+
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://dl.dropbox.com/scl/fi/j326l5cs4an2153f6zmuk/HBO.jpg?rlkey=utixb5ydc2zabqvaq6xlz4d55&dl=0",HBO cdg
+http://208.115.225.174:14136
  
 #EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png" group-title="Premium Movies",Hbo Hits
 #http://myteve.online:8080/Abraham/6b3ca724a0/196480
