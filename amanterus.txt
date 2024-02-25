@@ -9,31 +9,199 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
 #EXTINF:-1 group-title="U17" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR(Vidio)
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 group-title="U17" tvg-logo="https://dl.dropbox.com/scl/fi/dmxw60zt6a8rur86zra94/Worldcup-u17.jpeg?rlkey=4xpgmwndqm4plllg01jwy79n9&dl=0", (ASSP 1 HD) ⚽ world cup U17
-http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=918986&extension=ts&play_shareext@assp1_my
-
-#EXTINF:-1 group-title="U17" tvg-logo="https://dl.dropbox.com/scl/fi/dmxw60zt6a8rur86zra94/Worldcup-u17.jpeg?rlkey=4xpgmwndqm4plllg01jwy79n9&dl=0", (ASSP 1 FHD) ⚽ world cup U17
-https://sc2022.stream-link.org/tv2306.php?id=s19
-
-#EXTINF:-1 group-title="U17" tvg-logo="https://dl.dropbox.com/scl/fi/dmxw60zt6a8rur86zra94/Worldcup-u17.jpeg?rlkey=4xpgmwndqm4plllg01jwy79n9&dl=0", (ASSP 2 HD) ⚽ world cup U17
-http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=918985&extension=ts&play_shareext@assp2_my
-
-#EXTINF:-1 group-title="U17" tvg-logo="https://dl.dropbox.com/scl/fi/dmxw60zt6a8rur86zra94/Worldcup-u17.jpeg?rlkey=4xpgmwndqm4plllg01jwy79n9&dl=0", (ASSP 2 FHD) ⚽ world cup U17
-https://sc2022.stream-link.org/tv2306.php?id=s20
-
-#EXTINF:-1 group-title="U17" tvg-logo="https://dl.dropbox.com/scl/fi/dmxw60zt6a8rur86zra94/Worldcup-u17.jpeg?rlkey=4xpgmwndqm4plllg01jwy79n9&dl=0", (ASSP 3 FHD) ⚽ world cup U17
-https://sc2022.stream-link.org/tv2306.php?id=s21
-
-#EXTINF:-1 group-title="U17" tvg-logo="https://dl.dropbox.com/scl/fi/dmxw60zt6a8rur86zra94/Worldcup-u17.jpeg?rlkey=4xpgmwndqm4plllg01jwy79n9&dl=0", (ASSP 4 FHD)v⚽ world cup U17
-https://sc2022.stream-link.org/tv2306.php?id=s22
-
-
 #EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="VIDIO",Trans TV CDG
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="VIDIO",Trans 7 CDG 
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="VIDIO",Magna TV CDG
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", ANTV_HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", BTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", BERITASATU WORLD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", JAKARTA GLOBE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", KOMPASTV_HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", METROTV_HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", IDX_CHANNEL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", GARUDATV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", DAAITV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", HOREE!
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", JAKTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", JTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", TV9_NUSANTARA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch352%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", FIRST_WARRIORS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch999%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", FIRST_LIFESTYLE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", CITRA_MUSLIM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", CITRA_BIOSKOP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", CITRA_DRAMA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", CITRA_DANGDUT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", CITRA_ENTERTAINMENT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", TVRI
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", AXN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", PARAMOUNT_NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", HITSMOVIE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", HITS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", SONY_MAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", KIX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch336%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", TVN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", TVNMOVIES
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", KBSWORLD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", ONE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", ZEEBIOSKOP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", SPOTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", SPOTV2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", PREMIER SPORTS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", EUROSPORT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", CGTN DOCUMENTARY
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", DISCOVERY_CHANNEL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", ANIMAL_PLANET
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", LOVENATURE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", HISTORY
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", CRIMEINVESTIGATION
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", GLOBAL_TREKKER
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", DREAMWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch374%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", LIFETIME
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", HGTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", TLC
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", AFN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", FOOD_NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", FASHIONTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", DAVINCI
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", ANIMAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", BOOMERANG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", CARTOON_NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", NICKELODEON
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", NICKJR.
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", MTV 90S
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", MTV STAGE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", STINGRAY NATURESCAPE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch367%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", STINGRAY DJAZZ
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3344%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", GEM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fXZt6w/spyber-firsmedia-logo.jpg" group-title="FISHMEDIA", Prase Music
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3888%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3u8
 
 
 #EXTINF:-1 group-title="FMX" tvg-logo="",abc
