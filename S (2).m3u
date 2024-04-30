@@ -119,8 +119,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
-https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
- 
+#https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
