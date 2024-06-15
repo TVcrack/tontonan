@@ -28,6 +28,27 @@ https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
 
 
+#EXTINF:-1 group-title="FIFA+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q\u0026s\u003d10", FIFA+ 1
+https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q\u0026s\u003d10", FIFA+ 2
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8"
+
+#EXTINF:-1 group-title="FIFA+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q\u0026s\u003d10", FIFA+ 3
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q\u0026s\u003d10", FIFA+ 4
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q\u0026s\u003d10", FIFA+ 5
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+
+
+#EXTINF:-1 group-title="FIFA+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q\u0026s\u003d10", FIFA+ 6
+https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
+
+
+
 <====================== Indonesia Channel ======================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
