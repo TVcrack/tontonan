@@ -1,5 +1,26 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
 
+#EXTM3U
+#EXTVLCOPT-http-reconnect=true
+
+====================================================================
+#EXTINF:0 tvg-id="17609" tvg-name="INFO" tvg-logo="https://thumbor.prod.vidiocdn.com/qi0gqFL1TIz208a4h9NJ-ScbXbU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3616795/5cc79b.jpg" group-title="LIVE TIMNAS",AFF U19
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdntl=exp=1722267927~acl=%2f*~id=161049633~data=hdntl~hmac=44fa6ec6cba46cdbb7b144e64cbb12f996c778002d0b544b47efe59c1ab3b844
+
+#EXTINF:0 tvg-id="17599" tvg-name="INFO" tvg-logo="https://thumbor.prod.vidiocdn.com/RSW5fUJ4vIno1UYORbG1D_177mQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3618849/b75700.jpg" group-title="LIVE TIMNAS",AVC U20
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a70c6e3eb4f65285eb10e326ac66c092:57222b1bd2662c0f293ac42477809f57
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17599_stream.mpd?hdntl=exp=1722267927~acl=%2f*~id=161049633~data=hdntl~hmac=44fa6ec6cba46cdbb7b144e64cbb12f996c778002d0b544b47efe59c1ab3b844
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="MNCSports3.Id" tvg-logo="https://anutv.xyz/gambar/bri.jpg" group-title="livebolla", LIVE IDN 1
