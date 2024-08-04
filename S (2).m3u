@@ -45,6 +45,86 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="MOTOGP F1" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+#EXTINF:-1 tvg-name="PPTV HD" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",PPTV HD | THAI
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/036_pptv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+ 
+#EXTINF:-1 tvg-chno="41" tvg-id="pptv.iptv36.my.to" group-title="🏆Olympics | Paris 2024" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",PPTV FHD | THAI
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-name="CH7 HD" tvg-id="CH7 HD.th" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024", CH7 HD | THAI
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/035_7HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+ 
+#EXTINF:-1 tvg-chno="39" tvg-id="ch7.iptv36.my.to" group-title="🏆Olympics | Paris 2024" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",CH7 | THAI
+http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="30" tvg-id="mcot.iptv36.my.to" group-title="🏆Olympics | Paris 2024" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",MCOT HD | THAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-name="MCOT HD" tvg-id="MCOT HD.th" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024", MCOT | THAI
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/030_mcothd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+ 
+#EXTINF:-1 tvg-chno="9" tvg-id="tsports.iptv36.my.to" group-title="🏆Olympics | Paris 2024" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",T-Sports7 | THAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
+ 
+ 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",true-premier-HD3 | THAI
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/603_eng3./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEwOjAzOjI3IFBNJmhhc2hfdmFsdWU9d2Q3bHVqdktvMUlKNTlGTHhwa2xhQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM3OTgw
+ 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",true-premier-HD5 | THAI
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/604_eng5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEwOjAzOjI3IFBNJmhhc2hfdmFsdWU9d2Q3bHVqdktvMUlKNTlGTHhwa2xhQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM3OTgw
+ 
+ 
+#EXTINF: tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024"0,SuperSport
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=3338&extension=ts&play_token=qd3YdQyvFS
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport Blitz
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14962&extension=ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport Football
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14960&extension=ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport Golf
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14959&extension=ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport LaLiga
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14956&extension=ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport Premier League
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14955&extension=ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport Tennis
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18533&extension=ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport MaXimo
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18534&extension=ts
+ 
+#EXTINF:0 tvg-name="AF | SUPERSPORTS VARIETY 01" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024", SuperSport Variety 1
+http://kstv.us:8080/live/tH300gvHff/8606073792/47628.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",SuperSport Variety 2
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18685&extension=ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",SuperSport Variety 3
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18916&extension=ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",SuperSport Variety 4
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18917&extension=ts
+ 
+ 
+#EXTINF:-1 tvg-id="Sport1.sk" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",EUROSPORT 1
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2286|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+ 
+#EXTINF:-1 tvg-id="Sport1.sk" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",EUROSPORT 2
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2285|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
+
 
 <====================== Indonesia Channel ======================>
 
@@ -507,47 +587,47 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u
 #EXTINF:-1 tvg-id="HitsMovies.sg" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Hits%20Movies.png" group-title="Premium Movies",HitsMovies
 https://melon-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-
- 
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Premium Movies",HBO (Maxstream)
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",HBO (Maxstream)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
  
-#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="Premium Movies",HBO Family (Maxstream)
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO Group",HBO Family (Maxstream)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
  
-#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Premium Movies",HBO Hits (Maxstream)
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Group",HBO Hits (Maxstream)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
  
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Premium Movies",HBO Signature (Maxstream)
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO Group",HBO Signature (Maxstream)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
  
-#EXTINF:-1 tvg-id="CINEMAX" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Premium Movies",CINEMAX (Maxstream)
+#EXTINF:-1 tvg-id="CINEMAX" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",CINEMAX (Maxstream)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Premium Movies",Cinemax
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group",Cinemax
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
+ 
+
  
 
 
