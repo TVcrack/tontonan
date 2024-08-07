@@ -46,17 +46,6 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="🏆Olympics | Paris 2024",ASTRO~OLYMPIC~1
-http://tigerfights.xyz/live/moms/moms123/3527828.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="🏆Olympics | Paris 2024",ASTRO~OLYMPIC~2
-http://tigerfights.xyz/live/moms/moms123/3527829.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="🏆Olympics | Paris 2024",ASTRO~OLYMPIC~3
-http://tigerfights.xyz/live/moms/moms123/3527830.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="🏆Olympics | Paris 2024",ASTRO~OLYMPIC~4
-http://tigerfights.xyz/live/moms/moms123/3527831.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="🏆Olympics | Paris 2024",ASTRO~OLYMPIC~5
-http://tigerfights.xyz/live/moms/moms123/3527832.ts
-
 
 #EXTINF:-1 tvg-name="PPTV HD" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",PPTV HD | THAI
 #EXTVLCOPT:http-referrer=https://wacth.tv
