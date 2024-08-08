@@ -67,7 +67,7 @@ https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_horee_ver1.png",HOREE
 https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8?c
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_disco_ver1.png",DISCOVERY
-https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
+https:fvidio//cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_techstorm_ver1.png",TECHSTORM
 https://cdn09jtedge.indihometv.com/joss/133/techstorm/index.m3u8?c
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png",CRIME INVESTIGATION
@@ -106,14 +106,7 @@ https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
 
 
-#EXTINF:-1 group-title="U17" tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png", SCTV(vidio)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
- 
-#EXTINF:-1 group-title="U17" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR HD
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
 
-#EXTINF:-1 group-title="U17" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR(Vidio)
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="VIDIO",Trans TV CDG
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
@@ -123,9 +116,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
 
 
-#EXTINF:0 tvg-id="" tvg-name="INFO"  tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="Coppa",INDOSIAR 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://fastserver.my.id:8080/play/p7M2Yp6F8FBz249PUQPRzskyrR98UXHe9FL_m7VFheY/ts
 
 #EXTINF:-1 tvg-name="PPTV HD" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",PPTV HD | THAI
 #EXTVLCOPT:http-referrer=https://wacth.tv
@@ -8704,16 +8694,7 @@ http://abf.filmbluray.id/0nbbfrm
 http://abf.filmbluray.id/fgp2klb
 
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vPH3-sSUFyo6QWZlH88woToH714=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/da497a.png" tvg-id=".SHINTA" tvg-name"RCTI _VIDIO" group-title="VIDIO",RCTI
-https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
-#EXTINF:-1 group-title="LOKAL BARU" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://210.210.155.37/qwr9ew/s/s03/01.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/1gl_OViRhInfE1_Scn6ve40g7FY=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" tvg-id=".SHINTA" tvg-name"Indosiar _VIDIO" group-title="LOKAL BARU",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://tv.zonanime.my.id/vidio/indosiar.m3u8
 #EXTINF:-1 tvg-id="RCTI.Id" tvg-logo="https://cdn.ksa.my.id/rcti.png" group-title="National TV",RCTI+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
