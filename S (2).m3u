@@ -1,7 +1,5 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
-#EXTINF:0 tvg-id="MNCSports3.Id" tvg-logo="https://www.dropbox.com/scl/fi/sq3bro9dcgollgqvxst3b/icons8-youtube-240.png?rlkey=od7rzn526fimzj6tzq6gthzj1&st=oruw0apm&dl=1" group-title="UPDATE", UPDATE YOUTUBE
-https://www.dropbox.com/scl/fi/xmxnwxxxpy6chs9ngsg1r/smartyutub2238.mp4?rlkey=a1396tuyadv0v1a4guqme1rl6&st=sd7nd1i2&dl=1
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
