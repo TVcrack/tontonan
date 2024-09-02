@@ -219,9 +219,21 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
  
 
-#EXTINF:0 tvg-id="AjwaTV.id" tvg-name="Ajwa TV" ch-id="7464"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzvFa290X6Yq2mMtxyw4qNLaXQNTyJ7UbKA&usqp=CAU" group-title="Indonesia Channels" ,SCTV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://dusk.biz.id/red/play.m3u8?id=204&type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=4d4732d93e6720de0ef884d7106e14f7&kid=a79a188263724bfcaafc4a7c3b3cd8ce&tekon=djisamsoe
+#EXTINF:-1 tvg-ID="animax.id" tvg-name="SCTV" group-title="Nasional" tvg-logo="https://1.bp.blogspot.com/-Jrub7s9M-8o/YJVWxmOMmiI/AAAAAAAAEa8/fHKx6VD5nc4FAZtBgDwAwviX1UVzVVLKACLcBGAsYHQ/s720/sctv-p.png", SCTV
+#EXTVLCOPT:http-origin=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=Google
+#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
+#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
+#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
+#EXTVLCOPT:http-sec-ch-ua-mobile=?0
+#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
+#EXTVLCOPT:http-sec-fetch-dest=empty
+#EXTVLCOPT:http-sec-fetch-mode=cors
+#EXTVLCOPT:http-sec-fetch-site=cross-site
+#EXTVLCOPT:http-user-agent=Google
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/SCTV_live_streaming_tv.jpg" group-title="Indonesia Channels",SCTV alt
@@ -233,28 +245,27 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/sctvTV.m3u8
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR(Vidio)
-#http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-#http://45.12.2.240:8080/b7c2ba83/b65f5b29/162138 
-#http://op-group1-swiftservesd-1.dens.tv/s/s04/01.m3u8
-http://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="Indonesia Channels" , INDOSIAR BRI LIGA LIVE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=205&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=881afa67ea57b41c1822d745d67559e6&kid=5eaddccd893a47ac8b65f9b31963a3ae&tekon=djisamsoe
+#EXTINF:-1 tvg-ID="animax.id" tvg-name="Indosiar" group-title="Nasional" tvg-logo="https://1.bp.blogspot.com/-sr_JztcW1i0/YJVWujZQJMI/AAAAAAAAEaU/3E_UVUSecGgVGKfzk_SUgeVrejjIo4LDACLcBGAsYHQ/s720/indosiar-p.png", Indosiar
+#EXTVLCOPT:http-origin=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=Google
+#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
+#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
+#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
+#EXTVLCOPT:http-sec-ch-ua-mobile=?0
+#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
+#EXTVLCOPT:http-sec-fetch-dest=empty
+#EXTVLCOPT:http-sec-fetch-mode=cors
+#EXTVLCOPT:http-sec-fetch-site=cross-site
+#EXTVLCOPT:http-user-agent=Google
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://media.suara.com/pictures/970x544/2020/09/15/20484-logo-indosiar.jpg" group-title="Indonesia Channels", INDOSIAR alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
-#EXTINF:0 tvg-id="AjwaTV.id" tvg-name="Ajwa TV" ch-id="7464"  tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="Indonesia Channels" ,INDOSIAR alt2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://dusk.biz.id/red/play.m3u8?id=205&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
