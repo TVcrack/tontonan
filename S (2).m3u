@@ -36,6 +36,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="MOTOGP F1" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="livebolla" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png",beIN Sports 1 
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
 
 
