@@ -190,30 +190,23 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" ,SCTV cubmu 
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels CADANGAN",Indosiar (live)
+http://xtv.ooo:8080/live/35588981/18988553/350972.ts
+http://xtv.ooo:8080/30912088/60996054/350972
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.ts
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=881afa67ea57b41c1822d745d67559e6&kid=5eaddccd893a47ac8b65f9b31963a3ae&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="Indosiar" group-title="Nasional" tvg-logo="https://1.bp.blogspot.com/-sr_JztcW1i0/YJVWujZQJMI/AAAAAAAAEaU/3E_UVUSecGgVGKfzk_SUgeVrejjIo4LDACLcBGAsYHQ/s720/indosiar-p.png", Indosiar
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=Google
-#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
-#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
-#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
-#EXTVLCOPT:http-sec-ch-ua-mobile=?0
-#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
-#EXTVLCOPT:http-sec-fetch-dest=empty
-#EXTVLCOPT:http-sec-fetch-mode=cors
-#EXTVLCOPT:http-sec-fetch-site=cross-site
-#EXTVLCOPT:http-user-agent=Google
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels CADANGAN",SCTV
+http://xtv.ooo:8080/live/danyear12/am809100/351030.ts
+http://xtv.ooo:8080/live/30912088/60996054/351030.ts
 
 
 #EXTINF:-1 tvg-logo="https://media.suara.com/pictures/970x544/2020/09/15/20484-logo-indosiar.jpg" group-title="Indonesia Channels", INDOSIAR alt
