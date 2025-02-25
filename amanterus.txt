@@ -397,68 +397,125 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b388400
 
 
 
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",中天新聞台
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",翡翠台
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVBS-新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",TVBS-新聞台
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",寰宇新聞台
+http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",鳳凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 tvg-name="无线新闻台(北美)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",无线新闻台(北美)
+http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",鳳凰資訊
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",無線新聞台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",美亞電影台(HK)
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="東森新聞" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",東森新聞
+http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",鳳凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",中天亞洲台
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠综合台(北美)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",翡翠综合台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 tvg-name="千禧經典台(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",千禧經典台(HK)
+http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠剧集台(北美)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",翡翠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 tvg-name="娛樂新聞台(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",娛樂新聞台(HK)
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1 tvg-name="PopC" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",PopC
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 tvg-name="黃金翡翠台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",黃金翡翠台
+http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+#EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",myTV SUPER 18台
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 tvg-name="中視" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",中視
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+#EXTINF:-1 tvg-name="明珠剧集台(北美)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",明珠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 tvg-name="Channel 8 HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Channel 8 HD
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 tvg-name="Channel 5 HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Channel 5 HD
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 tvg-name="viutv 99" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",viutv 99
+http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+#EXTINF:-1 tvg-name="靖天電影台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",靖天電影台
+http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+#EXTINF:-1 tvg-name="華視" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",華視
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+#EXTINF:-1 tvg-name="28 AI 智慧賽馬" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",28 AI 智慧賽馬
+http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+#EXTINF:-1 tvg-name="tvN" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 tvg-name="龍華電影台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",龍華電影台
+http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ROCK Action
+http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 tvg-name="龍華經典台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",龍華經典台
+http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+#EXTINF:-1 tvg-name="viutv6 96" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",viutv6 96
+http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+#EXTINF:-1 tvg-name="Channel U HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Channel U HD
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 tvg-name="Animax(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Animax(HK)
+http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1 tvg-name="無線衛星新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",無線衛星新聞台
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",龍華日韓台
+http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Thrill
+http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1 tvg-name="France 24" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",France 24
+http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+#EXTINF:-1 tvg-name="DW" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",DW
+http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+#EXTINF:-1 tvg-name="亞洲新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",亞洲新聞台
+http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-name="東方衛視國際頻道" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",東方衛視國際頻道
+http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="KIX" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",KIX
+http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Nick Jr
+http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Nickelodeon
+http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",AXN
+http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+#EXTINF:-1 tvg-name="i-Fun 動漫台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",i-Fun 動漫台
+http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+#EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",NHK World-Japan
+http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1 tvg-name="ZooMoo" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ZooMoo
+http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1 tvg-name="NHK東京総合" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",NHK東京総合
+http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
+#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Love Nature HD
+http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Love Nature HD
+http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 tvg-name="Astro iQIYI" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Astro iQIYI
+http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
+#EXTINF:-1 tvg-name="Astro Xing He" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Astro Xing He
+http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
+#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Astro AEC
+http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",纬来体育台
+http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
  
-#EXTINF:-1 tvg-chno="41" tvg-id="pptv.iptv36.my.to" group-title="🏆Olympics | Paris 2024" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",PPTV FHD | THAI
-http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
- 
 
- 
-#EXTINF:-1 tvg-chno="39" tvg-id="ch7.iptv36.my.to" group-title="🏆Olympics | Paris 2024" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",CH7 | THAI
-http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-chno="30" tvg-id="mcot.iptv36.my.to" group-title="🏆Olympics | Paris 2024" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",MCOT HD | THAI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
-http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
- 
-
-
- 
-
- 
- 
-#EXTINF: tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024"0,SuperSport
-http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=3338&extension=ts&play_token=qd3YdQyvFS
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport Blitz
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14962&extension=ts
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport Football
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14960&extension=ts
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport Golf
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14959&extension=ts
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport LaLiga
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14956&extension=ts
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport Premier League
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14955&extension=ts
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport Tennis
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18533&extension=ts
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport MaXimo
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18534&extension=ts
- 
-#EXTINF:0 tvg-name="AF | SUPERSPORTS VARIETY 01" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024", SuperSport Variety 1
-http://kstv.us:8080/live/tH300gvHff/8606073792/47628.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",SuperSport Variety 2
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18685&extension=ts
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",SuperSport Variety 3
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18916&extension=ts
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",SuperSport Variety 4
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18917&extension=ts
- 
- 
-#EXTINF:-1 tvg-id="Sport1.sk" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",EUROSPORT 1
-http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2286|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
- 
-#EXTINF:-1 tvg-id="Sport1.sk" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",EUROSPORT 2
-http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2285|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Ada Hantu 2
@@ -9626,149 +9683,8 @@ https://epg.pm/stream/776a2d245c30641312d31a739c7b747736fcecc8a57de2351184b16cf3
 #EXTINF: -1 tvg-logo="http://mkctvnew.my.id/wp-content/uploads/2020/07/cropped-mkcfc.jpg" group-title="KNOWLEDGE", Animal Planet
 #EXTINF: -1 tvg-logo="http://mkctvnew.my.id/wp-content/uploads/2020/07/cropped-mkcfc.jpg" group-title="KNOWLEDGE", AFC
 https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", BERITA_SATU_HD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", BERITA_SATU_WORLD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI 3
-http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI BENGKULU
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI Kupang
-http://118.97.50.107/Content/HLS/Live/Channel(TVRInttkupang)/Stream(02)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI Denpasar
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIbali)/Stream(02)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI Jogja
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI Semarang
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(02)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI Surabaya
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI Bandung
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(02)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI Jakarta
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIdki)/Stream(02)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI Aceh
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIaceh)/Stream(02)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI Medan
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIsumutmedan)/Stream(02)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI Padang
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(02)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI Pekan Baru
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/Stream(02)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI Bengkulu
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(02)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI Belitung
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIbabel)/Stream(02)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI Palembang
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIsumsel)/Stream(02)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI Lampung
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIlampung)/Stream(02)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI Samarinda
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI Makassar
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(02)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI JAMBI
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIjambi)/Stream(03)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI JATENG SEMARANG
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(03)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI KALBAR
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/Stream(03)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI KALSEL BANJARMASIN
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIkalselbanjarmsn)/Stream(03)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI KALTENG
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIkalteng)/Stream(03)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI KALTIM SAMARINDA http://118.97.50.107/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(03)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI PAPUA http://118.97.50.107/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVRI SULUT MANADO
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", SAKTI TV http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
-http://wms.klikhost.com/bayutv/live/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", RUAI TV
-http://wowza58.indostreamserver.com:1935/ruaitv/live/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", SBCTV JATIM
-http://45.148.26.176/hls/M1.m3u8
-#http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", RADAR TV TASIKMALAYA
-http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", BMS TV
-http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", ADI TV YOGYAKARTA
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", Jakarta Globe news Channel TV
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", DANGDUT TV
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TV9 NUSANTARA
-http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", KITANESIA
-https://liveanevia.mncnow.id/live/eds/RCTI-Indonesia/sa_hls/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", IN HD
-https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TATA TV
-http://flash1.broadcastindo.net/tatv/live.sdp/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", DAII TV HD
-http://e1-hk-1.nim.mivo.tv/daaitv/daaitv2_all/skrz1j8exe/daaitv2_576p/chunks.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", VOA TV
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", ASWAJA
-http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", MADU TV
-http://videostream.indostreamserver.com:1935/madufm/live/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", MAKKAH TV
-http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", NABAWI TV
-http://stream2.ninmedia.tv/live/xmedia-nabawitv.stream_nin/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", NADA MUSLIM TV
-http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", PULDAPII TV
-http://178.128.49.255/mobile/web.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", NIAGA TV
-http://119.235.249.58:1935/niagatv/live/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", NU CHANNEL
-http://stream1.ninmedia.tv/live/xmedia-nuchannel.stream_nin/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", BANTEN TV
-http://122.248.32.234:1935/ch22/myStream/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", REFORMED 21
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", RODJA TV
-http://rr2.dens.tv/s/s14/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", AHYAR TV
-http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/chunklist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", RRI NET
-http://stream1.ninmedia.tv/live/xmedia-rrinet.stream_nin/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", RUMAH TV
-http://stream2.ninmedia.tv/live/xmedia-rumahtv.stream_nin/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", SALING SAPA
-http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TVKU
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", SUNNAH NABAWIYAH
-http://rr2.dens.tv/s/s27/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TAbobokG TV
-http://stream1.ninmedia.tv/live/xmedia-tabobokgtv.stream_nin/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TAHFIDZ TV
-http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", TEGAR TV
-http://wms.klikhost.com/tegartv/live/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", THE INDONESIAN CHANNEL http://202.93.133.3:1935/svr2/tic.com.stream_720p/playlist.m3u8
-http://103.23.201.170:1935/live/livestream/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", JEMBER1 TV
-http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", J'GO TV
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", BBS TV
-http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", BMW TV
-http://stream1.ninmedia.tv/live/xmedia-bmwtv.stream_nin/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH", HIDUP TV
-http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/17F4PQN/bbstv.png" group-title="LOKAL DAERAH", BBS TV
-http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gSSRDf6Bszz7uI7Fgo5a-92-kis=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-9e9e9e.jpg" group-title="TV Islam", Adjwa TV
 http://mkctvnew.my.id/siap/adjwa.m3u8
 #EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/gL9oN1hFx4k/maxresdefault.jpg" group-title="TV Islam", Astro Oasis
