@@ -516,8 +516,6 @@ http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
  
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Ada Hantu 2
 https://www.googleapis.com/drive/v3/files/164LWM_NfFZqxCfSbGtQ-Saq6h2EuifOD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
@@ -527,20 +525,8 @@ https://www.googleapis.com/drive/v3/files/19bQnNLIyybMbujHtsXr2xeiI-b2HNoZB?alt=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Alas Pati: Hutan Mati
 https://www.googleapis.com/drive/v3/files/1G98uOa7PYfDU85L8-s9g9l2Fc_0kYism?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Bayi Gaib
-https://www.googleapis.com/drive/v3/files/1z0v27V9sLM8O7OrqYSEp906jHVd0PWzZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Belenggu
 https://www.googleapis.com/drive/v3/files/1eGJ-9tT7_Xp8ulYNrPtbNagmGDCBfb0i?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Ghost Writer 2
-https://www.googleapis.com/drive/v3/files/1pWUjQe4Ci4oDUjexU3gn6Eqr4Esyvy9g?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Hompimpa
-https://www.googleapis.com/drive/v3/files/1dWxzlcnEAjpKkbCsgi8A7lsUTlb3e0FM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Iblis Dalam Kandungan
-https://www.googleapis.com/drive/v3/files/15qMU6WYK777KAm1R8yYtC_At81_QqS8j?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Ikut Aku ke Neraka
 https://www.googleapis.com/drive/v3/files/1wbbNUEVWpfhxNsO805enjX4eQNRmKbyN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -611,12 +597,6 @@ https://www.googleapis.com/drive/v3/files/1tHP_UwvBNy42ZxkC1t-a_XhET0Mx6Hx8?alt=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Titisan Setan 2
 https://www.googleapis.com/drive/v3/files/1gLXUYmhU0prZIO-movZzEwY-f4CbHlbx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Dilan 1991 
-https://index.wahyudin.workers.dev/0:/Punya%20Wahyudin%20Piyul/Film%20Indonesia/Dilan%201991%20(2019)%20NF%20WEB-DL%20[HD].mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Milea : Suara dari Dilan 
-https://index.wahyudin.workers.dev/0:/Punya%20Wahyudin%20Piyul/Film%20Indonesia/Milea:%20Suara%20dari%20Dilan%20(2020)%20NF%20WEB-DL%20[HD].mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",48 Jam untuk Indah
 https://www.googleapis.com/drive/v3/files/1VRR58lkh5UXVARv9daWSJz8-9cu9Gbbc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
@@ -632,9 +612,6 @@ https://www.googleapis.com/drive/v3/files/11TsHxCkqRWOkWgY_WC_XlRBRSq2PoFEN?alt=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Anoksia
 https://www.googleapis.com/drive/v3/files/1UJjz5nyCQ7EiVRFxp3c0LG_eNgqZ2jIK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Ashiap Man
-https://www.googleapis.com/drive/v3/files/1KrheAcVetnaLAY_8lxYMVFJ5etUJCpja?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Baby Blues
 https://www.googleapis.com/drive/v3/files/1OtvcGMbBXa8q70V7N_5-hwOOPeMIshSt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
@@ -647,9 +624,6 @@ https://www.googleapis.com/drive/v3/files/1lB7iAm0iPEFH-tadRkTBUienDXpYEP3L?alt=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Before I Met You
 https://www.googleapis.com/drive/v3/files/12DnUJAAAHljYp503SbUeU6eD_IUSRMDk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-##EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Before Now & Then (Nana)
-https://www.googleapis.com/drive/v3/files/17KsgsPUyeck1zo5yHHyWAELSdkPRYppf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Ben & Jody
 https://www.googleapis.com/drive/v3/files/15BnYLZSg7YE68YglrBsUHmc_zkMWvsAo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
@@ -658,9 +632,6 @@ https://www.googleapis.com/drive/v3/files/1z1w-0XOwquvmWsTFkAhkjKIoyGZ9FMPe?alt=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Cek Ombak Melulu
 https://www.googleapis.com/drive/v3/files/16hLTwDSvPMvdxlyeO4uYjwlmf8DoKPFe?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Cherish & Ruelle
-https://www.googleapis.com/drive/v3/files/1B_Yw0ee3Mw1lj7uZKZCDzkOuSM6wOveP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Cinta Subuh
 https://www.googleapis.com/drive/v3/files/1djDcWHiriXqFbzPQyAiyYbmrnvXTQ0qx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -673,15 +644,6 @@ https://www.googleapis.com/drive/v3/files/1LYgqcmjFtyA77m-F7AUR18rvNMpCEgoa?alt=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Cross the Line
 https://www.googleapis.com/drive/v3/files/1URcwwXiKODm8mlALd8vBywUEu_2dNhIA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Dear David
-https://www.googleapis.com/drive/v3/files/103EPMdyiOuevER5s9yYzgvSUIhAfjNrp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Dear Nathan: Thank You Salma
-https://www.googleapis.com/drive/v3/files/1IdL3S7F_X91GtngUiliWJoYNrkkq9H2w?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Enam Batang
-https://www.googleapis.com/drive/v3/files/1vhua-3To0ZvwT8uGPm-AB9Tnf1w0aQYI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Eyang Ti
 https://www.googleapis.com/drive/v3/files/1sPQAHnuB8-Jh4hOh-87nhsuqHa1CbzC7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -707,14 +669,8 @@ https://www.googleapis.com/drive/v3/files/1rnUsX-cEYrNflSk46_eGxhXJxh0J7ZKS?alt=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Jakarta vs Everybody
 https://www.googleapis.com/drive/v3/files/1JaNcwhXKY88NK1RuG-ESnV52gVU9Kneo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Kambodja
-https://www.googleapis.com/drive/v3/files/1Ac_LpkS9ekuxK8fWG8FvcKXMY6trZ2ln?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Kapan Pindah Rumah?
 https://www.googleapis.com/drive/v3/files/1bwOSUXFQIZIsZx9cBTlvf1YdQu4KRVMi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Kau & Dia
-https://www.googleapis.com/drive/v3/files/130IRjDIhoehAJzAPcWrYVyk4o0OLZLVJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Kau & Dia
 https://www.googleapis.com/drive/v3/files/1b26KXo10FRzT0ZK_aVanisnDEbqcwnpK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -724,9 +680,6 @@ https://www.googleapis.com/drive/v3/files/1RljtHPqFNudxFH6MbrxTuYnJ6EGS6XC-?alt=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Kemarin
 https://www.googleapis.com/drive/v3/files/1n2vmBIoqT1kfRTpNvT3VzIXzgxeWUdMw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Kopi Pahit
-https://www.googleapis.com/drive/v3/files/1Ls3lv2pcrKL-MTYMKIAGlT7KdN2PxnfZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Lara Ati
 https://www.googleapis.com/drive/v3/files/1N8MtFGg-E2PDaX_Dbcn_zh925tvwr-DM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -752,9 +705,6 @@ https://www.googleapis.com/drive/v3/files/1Fs9O7PdGdiCw70W-do_aMS0lhuQrK2Dv?alt=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Marriage
 https://www.googleapis.com/drive/v3/files/1Ywq2o0ndmKleStRph26gubBr4vztit9E?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Mencuri Raden Saleh
-https://www.googleapis.com/drive/v3/files/1628d0WouiHIruxQ8a61JJpPb5_0jNI3K?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Mendarat Darurat
 https://www.googleapis.com/drive/v3/files/1ovJeE0_u8aS8Imto9UjTdIY--yGYVElP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
@@ -773,17 +723,8 @@ https://www.googleapis.com/drive/v3/files/1M-HSOsAZJUyX7C7PvGMIptrfTBbyXAHj?alt=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Ngeri-Ngeri Sedap
 https://www.googleapis.com/drive/v3/files/1yhg2GzeYAAtv-zg6MvET0s188Q3FC5Vj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Paranoia
-https://www.googleapis.com/drive/v3/files/1bNrI_17VXW8kmIzrizrPwO3SIMDq2BV5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Perfect Strangers
 https://www.googleapis.com/drive/v3/files/1HPprQKHMR-457DsXB7ThmunjoaTWEm7s?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Perjalanan Pertama
-https://www.googleapis.com/drive/v3/files/10BAw1AoK9DaHaBKJCy32GnTxSqyo_pez?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Pertaruhan
-https://www.googleapis.com/drive/v3/files/1qOpPKObAVVwLpG5QB_Ttd6PbqmuWpugf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Pesan di Balik Awan
 https://www.googleapis.com/drive/v3/files/10-bEpP4DeGwuCAqxFtKClSlorq_0Ieuo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -806,23 +747,11 @@ https://www.googleapis.com/drive/v3/files/1KmmDO7m_jRBWG1OJ5YsGCSFE9KM1QDum?alt=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Senzano Savana
 https://www.googleapis.com/drive/v3/files/1AGwOANEL9cir_qA8WcpyOLWZNbfEaSOG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Seperti Dendam Rindu Harus Dibayar Tuntas
-https://www.googleapis.com/drive/v3/files/1oRBN46JO-3hvWQM8m8lTEVS-YU0nSGZm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Serigala Terakhir
 https://www.googleapis.com/drive/v3/files/1tfD2bJmjyc5CjJn3lQbEYGKutk7fquyP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Sin
-https://www.googleapis.com/drive/v3/files/1qk30HnUkOxgttQ4tE6_twVAN4rpxOk9y?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Sinar Untuk Genta
-https://www.googleapis.com/drive/v3/files/1ELM6nn6anPLf4gFh2SMIKZFV987yncTu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Suka Duka Uni Unaa
 https://www.googleapis.com/drive/v3/files/1moZC9_oAXFPGwy7Cv8eZh1NbBV9VOhDl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Supernova: Ksatria Putri & Bintang Jatuh
-https://www.googleapis.com/drive/v3/files/1IxGJtK__bgvi6g40KYyeQEvQC7XVZjw0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Susah Sinyal
 https://www.googleapis.com/drive/v3/files/1Kjawax5jGDG1jWJIhmN64oegwXPwPEoW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -830,35 +759,14 @@ https://www.googleapis.com/drive/v3/files/1Kjawax5jGDG1jWJIhmN64oegwXPwPEoW?alt=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",The Day Before The Wedding
 https://www.googleapis.com/drive/v3/files/1z6dnOhEEzQ6S6plA2xzyNj_9CJaSE2lz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",The Last Prank
-https://www.googleapis.com/drive/v3/files/16Gfj5R3SF66lLcP9Qlq2hhuHu3yqwvdX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Tiga Janda Melawan Dunia
-https://www.googleapis.com/drive/v3/files/1S489HxuRql1YapVay2hzh7afMi_x4nQ-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Tuhan Minta Duit!
-https://www.googleapis.com/drive/v3/files/1sQpXz0ZYWvjYqaxWzPTyhPSEwYwidanB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Until Tomorrow
-https://www.googleapis.com/drive/v3/files/1UmQbeJQn00M2IW9W92eiXb8C0IEPXT56?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Vidkill
-https://www.googleapis.com/drive/v3/files/1BCXbIylh6-hP_cGtucrfj9R-Sup12Mkf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Wedding Agreement
 https://www.googleapis.com/drive/v3/files/16Hd7392c8_D0CsGI8X6feUVNVeFEYohb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Yowis Ben3
-https://www.googleapis.com/drive/v3/files/1-nq7vMNv6q_7agU0I5R6D_jg98RZPGFs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Zodiac: Apa Bintangmu?
 https://www.googleapis.com/drive/v3/files/1mZrB2XpZJiC_kQLuzMwXxlDciiIltbFT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Warkop DKI Reborn: Jangkrik Boss! Part 4 (2020)
 https://www.googleapis.com/drive/v3/files/1UdAXo8vkJ2KWLh_yvhmqVLjsM7jRdTSb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Warkop DKI Reborn: Jangkrik Boss! Part 3 (2019)
-https://www.googleapis.com/drive/v3/files/17-oEnc4cewfvp8a0Kt63eC8fsVaEA_fl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Warkop DKI Reborn: Jangkrik Boss! Part 2 (2017)
 https://www.googleapis.com/drive/v3/files/1V-rl0DYkVRwRLn8NbZUSZDV94ERRbgJm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -868,6 +776,7 @@ https://www.googleapis.com/drive/v3/files/1X50_Pk5SDrfoXe_ol7RwiD5xHCScSQPS?alt=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="BIOSKOP INDO",Dongkrak Antik (1982)
 https://storage.googleapis.com/c0bdaf0bc060292fb3a.appspot.com/05ad4ec7756d92921409243dcd0bbc75_1668776586.mp4?sumber=awal_storage
+
 
 
 
