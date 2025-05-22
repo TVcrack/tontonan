@@ -18,30 +18,12 @@ https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png" group-title="NASIONAL",GTV (V+)
-http://202.147.193.244/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="NASIONAL",MNCTV (V+)
-http://202.147.193.244/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="NASIONAL",Inews (V+)
-http://202.147.193.244/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png" group-title="NASIONAL",Sindonews (V+)
-http://202.147.193.244/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
 
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="NASIONAL" ,SCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png" group-title="NASIONAL",Metro TV (V+) 
-http://202.147.193.244/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png" group-title="NASIONAL",TVONE (V+)
-http://202.147.193.244/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png" group-title="NASIONAL",Kompas TV (V+)
-http://202.147.193.244/live/eds/KompasTV/sa_dash/KompasTV.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="NASIONAL",CNN Indonesia
@@ -51,106 +33,19 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png" group-title="NASIONAL",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/592/592-LOGO-m.png" group-title="NASIONAL",BTV (V+)
-http://202.147.193.244/live/eds/BeritaSatu/sa_dash/BeritaSatu.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/594/594-LOGO-m.png" group-title="NASIONAL",Sea Today (V+)
-http://202.147.193.244/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="NASIONAL",Trans7 (V+)
-http://202.147.193.244/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png" group-title="NASIONAL",Transtv (V+)
-http://202.147.193.244/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png" group-title="NASIONAL",MDTV (V+)
-http://202.147.193.244/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png" group-title="NASIONAL",Antv (V+)
-http://202.147.193.244/live/eds/ANTV/sa_dash/ANTV.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png" group-title="NASIONAL",RTV (V+)
-http://202.147.193.244/live/eds/RTV/sa_dash/RTV.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png" group-title="NASIONAL",TVRI (V+)
-http://202.147.193.244/live/eds/PemersatuBangsa/sa_dash/PemersatuBangsa.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/598/598-LOGO-m.png" group-title="NASIONAL",Jaktv (V+)
-http://202.147.193.244/live/eds/JakTV/sa_dash/JakTV.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/856/856-LOGO-m.png" group-title="NASIONAL",JTV (DNS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-http://khano.nng.cloudns.us/live/m3u8/id/226fe77699e03c6.m3u8
-#http://202.147.193.244/live/eds/JTV/sa_dash/JTV.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/700/700-LOGO-m.png" group-title="NASIONAL",Bali TV (V+)
-http://202.147.193.244/live/eds/BaliTV/sa_dash/BaliTV.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/600/600-LOGO-m.png" group-title="NASIONAL",Bandung TV (V+)
-http://202.147.193.244/live/eds/BandungTV/sa_dash/BandungTV.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/595/595-LOGO-m.png" group-title="NASIONAL",Daai TV (V+)
-http://202.147.193.244/live/eds/DAAITV/sa_dash/DAAITV.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/659/659-LOGO-m.png" group-title="NASIONAL",IDX (V+)
-http://202.147.193.244/live/eds/IDX/sa_dash/IDX.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OzEYGDL.png?v=1.0.0.1" group-title="NASIONAL" tvg-id="IndonesianaTV.id" tvg-name="Indonesiana TV", Indonesiana TV
 https://tvstreamcast.com/indonesiana.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png" group-title="Movies",Originals (V+)
-http://202.147.193.244/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png" group-title="Movies",Cineedge (V+)
-http://202.147.193.244/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png" group-title="Movies",Uniques (V+)
-http://202.147.193.244/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png" group-title="Movies",Superrix (V+)
-http://202.147.193.244/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png" group-title="Movies",Buddy Star (V+)
-http://202.147.193.244/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/612/612-LOGO-m.png" group-title="Movies",Celestial Movie (V+)
-http://202.147.193.244/live/eds/CelestialMovie/sa_dash/CelestialMovie.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-m.png" group-title="Movies",Galaxy Premium (V+)
-http://202.147.193.244/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-m.png" group-title="Movies",Galaxy (V+)
-http://202.147.193.244/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png" group-title="Movies",Rock Action (V+)
-http://202.147.193.244/live/eds/Rockaction/sa_dash/Rockaction.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-m.png" group-title="Movies",Tvn Movies (V+)
-http://202.147.193.244/live/eds/tvNMovies/sa_dash/tvNMovies.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/620/620-LOGO-m.png" group-title="Movies",My Cinema (DNS)
-https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8|referer=http://dens.tv/&user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31D.m3u8
-#http://202.147.193.244/live/eds/MyCinema/sa_dash/MyCinema.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/621/621-LOGO-m.png" group-title="Movies",My Cinema Asia (DNS)
-https://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8|referer=http://dens.tv/&user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
-#http://202.147.193.244/live/eds/MyCinema-Asia/sa_dash/MyCinema-Asia.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/619/619-LOGO-m.png" group-title="Movies",My Cinema Family (DNS)
-https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8|referer=http://dens.tv/&user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31f.m3u8
-#http://202.147.193.244/live/eds/MyFamily/sa_dash/MyFamily.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/WnZe5JF.png?v=1.0.0.1" group-title="Movies",MyCinema Europe (DNS)
 https://op-group1-swiftservehd-1.dens.tv/h/h18/02.m3u8|referer=http://dens.tv/&user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/342/10342-LOGO-m.png" group-title="Movies",IMC (V+)
-http://202.147.193.244/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -162,17 +57,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/OIiqqUr.png?v=1.1.1.1" group-title="Movies" tvg-id="Flik.id" tvg-name="Flik", Flik (INDI)
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/114/345114-LOGO-m.png" group-title="Movies",Studio Universal (V+)
-#http://202.147.193.244/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/635/635-LOGO-m.png" group-title="Movies",KIX (V+)
-http://202.147.193.244/live/eds/KIX/sa_dash/KIX.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/610/610-LOGO-m.png" group-title="Movies",Hits Movie (V+)
-http://202.147.193.244/live/eds/HitsMovies/sa_dash/HitsMovies.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/609/609-LOGO-m.png" group-title="Movies",Thrill (V+)
-http://202.147.193.244/live/eds/Thrill/sa_dash/Thrill.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y4q1ttt/cinemaworld-2-1.png" group-title="Movies",Cinemaworld (INDI)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -184,15 +69,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/613/613-LOGO-m.png" group-title="Movies",CCM (V+)
-http://202.147.193.244/live/eds/CelestialClassic/sa_dash/CelestialClassic.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/615/615-LOGO-m.png" group-title="Movies",Zee Bioskop (V+)
-http://202.147.193.244/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
-
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/638/638-LOGO-m.png" group-title="Entertainment",AXN (V+)
-http://202.147.193.244/live/eds/AXN/sa_dash/AXN.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -206,24 +82,12 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b53
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_warner_ver1.png" group-title="Entertainment",Warner TV (INDI)
 https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 
-#EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="ROCK Action" tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png" group-title="Entertainment", Rock Action (V+)
-http://202.147.193.244/live/eds/Rockaction/sa_dash/Rockaction.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png" group-title="Entertainment",Rock Entertainment (V+)
-http://202.147.193.244/live/eds/Rockentertainment/sa_dash/Rockentertainment.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/634/634-LOGO-m.png" group-title="Entertainment",One (V+)
-http://202.147.193.244/live/eds/SetOne/sa_dash/SetOne.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/633/633-LOGO-m.png" group-title="Entertainment",TVN (V+)
-http://202.147.193.244/live/eds/tvN/sa_dash/tvN.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uwUXO4D.png?v=1.1.1.1" group-title="Entertainment" tvg-id="KPlus.sg" tvg-name="K-Plus HD", KPlus (DNS)
 http://khano.nng.cloudns.us/live/m3u8/int/c19fce28bcd7cb7.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/637/637-LOGO-m.png" group-title="Entertainment",Hits (V+)
-http://202.147.193.244/live/eds/HITS/sa_dash/HITS.mpd
 
 
 
@@ -245,47 +109,7 @@ https://otttv.co.in/d2h/livestream/zee-tv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RArAA1PLfXc/Yazhuq-x75I/AAAAAAAABhM/ZEAGZgIIB7Ubho7CbkfsFXOEkeZNqWJGACNcBGAsYHQ/s0/gSsIODC.png?v=1.0.0.1" group-title="Entertainment", Zee Cinema
 https://otttv.co.in/d2h/livestream/zee-cinema/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-m.png" group-title="Entertainment",Animax (V+)
-http://202.147.193.244/live/eds/Animax/sa_dash/Animax.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/642/642-LOGO-m.png" group-title="Entertainment",Celebrities TV (V+)
-http://202.147.193.244/live/eds/MNCInfotainment/sa_dash/MNCInfotainment.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/632/632-LOGO-m.png" group-title="Entertainment",Entertainment (V+)
-http://202.147.193.244/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/640/640-LOGO-m.png" group-title="Entertainment",FMN Telenovela (V+)
-#http://202.147.193.244/live/eds/FMN/sa_dash/FMN.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/705/243705-LOGO-m.png" group-title="Entertainment",Hanacaraka TV (V+)
-http://202.147.193.244/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-m.png" group-title="Entertainment",Vision Prime (V+)
-http://202.147.193.244/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/858/858-LOGO-m.png" group-title="Entertainment",Xing Kong TV (V+)
-#http://202.147.193.244/live/eds/XingKongTV/sa_dash/XingKongTV.mpd
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/427/173427-LOGO-m.png" group-title="Entertainment",Drama World (V+)
-#http://202.147.193.244/live/eds/XingKongTV/sa_dash/XingKongTV.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/711/112711-LOGO-m.png" group-title="Entertainment",Dens Food (V+)
-#http://202.147.193.244/live/eds/DensFood/sa_dash/DensFood.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/088/115088-LOGO-m.png" group-title="Entertainment",Dens Play (V+)
-#http://202.147.193.244/live/eds/XingKongTV/sa_dash/XingKongTV.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/712/112712-LOGO-m.png" group-title="Entertainment",Dens Shobiz (V+)
-#http://202.147.193.244/live/eds/XingKongTV/sa_dash/XingKongTV.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/850/850-LOGO-m.png" group-title="News",Aljazeera English (V+)
-http://202.147.193.244/live/eds/AlJazeeraInternational/sa_dash/AlJazeeraInternational.mpd
 
 #EXTINF:-1 tvg-id="AlJazeera.Arabic.net" tvg-name="AlJazeera Arabic" tvg-logo="https://cdn4.mbahnunungonline.net/img/fgUVz5m.png?v=1.0.0.1" group-title="News", AlJazeera Arabic
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
@@ -299,104 +123,9 @@ http://cdn.nng.cloudns.us/live/m3u8/ar/f5f5c18cf037918b.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/663/663-LOGO-m.png" group-title="News",Bloomberg (1XL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
-https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#http://202.147.193.244/live/eds/Bloomberg/sa_dash/Bloomberg.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/680/680-LOGO-m.png" group-title="News",CGTN (V+)
-http://202.147.193.244/live/eds/CGTN/sa_dash/CGTN.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/847/847-LOGO-m.png" group-title="News",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-https://warningfm.github.io/v3/live/str/ns/ccb94808e06e001.m3u8
-#http://202.147.193.244/live/eds/ChannelNewsAsia/sa_dash/ChannelNewsAsia.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/365/132365-LOGO-m.png" group-title="News",CNBC Asia (V+)
-http://202.147.193.244/live/eds/CNBC/sa_dash/CNBC.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/670/670-LOGO-m.png" group-title="News",DWTV (V+)
-http://202.147.193.244/live/eds/DW/sa_dash/DW.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/675/675-LOGO-m.png" group-title="News",Euronews (V+)
-http://202.147.193.244/live/eds/EuroNews/sa_dash/EuroNews.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/662/662-LOGO-m.png" group-title="News",Fox News (V+)
-http://202.147.193.244/live/eds/FoxNews/sa_dash/FoxNews.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/671/671-LOGO-m.png" group-title="News",France24 (INDI)
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streaming.indihometv.com/atm/DASH//FRANCE_24/manifest.mpd
-http://202.147.193.244/live/eds/France24/sa_dash/France24.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/636/636-LOGO-m.png" group-title="News",NHK Premium (V+)
-http://202.147.193.244/live/eds/NHKWorldPremium/sa_dash/NHKWorldPremium.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/686/686-LOGO-m.png" group-title="News",NHK World (V+)
-http://202.147.193.244/live/eds/NHKWorldTV/sa_dash/NHKWorldTV.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/674/674-LOGO-m.png" group-title="News",RT English (V+)
-http://202.147.193.244/live/eds/RTEnglish/sa_dash/RTEnglish.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/672/672-LOGO-m.png" group-title="News",TRT World (V+)
-http://202.147.193.244/live/eds/TRTWorld/sa_dash/TRTWorld.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/689/689-LOGO-m.png" group-title="International",ABC Australia (V+)
-http://202.147.193.244/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/681/681-LOGO-m.png" group-title="International",Anhui TV (V+)
-http://202.147.193.244/live/eds/AnhuiTV/sa_dash/AnhuiTV.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/688/688-LOGO-m.png" group-title="International",Arirang (V+)
-http://202.147.193.244/live/eds/Arirang/sa_dash/Arirang.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/683/683-LOGO-m.png" group-title="International",Dragon TV (V+)
-http://202.147.193.244/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-m.png" group-title="International",Hunan TV (V+)
-http://202.147.193.244/live/eds/HunanTV/sa_dash/HunanTV.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/685/685-LOGO-m.png" group-title="International",Jiangsu TV (V+)
-http://202.147.193.244/live/eds/JiangsuTV/sa_dash/JiangsuTV.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png" group-title="Kids",Moonbug (V+)
-http://202.147.193.244/live/eds/Moonbug/sa_dash/Moonbug.mpd
-#http://202.147.193.244/live/eds/BabyTV-NewHD/sa_dash/BabyTV-NewHD.mpd
-
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png" group-title="Kids",Cartoon Network (1XL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
-https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#http://202.147.193.244/live/eds/CartoonNetwork/sa_dash/CartoonNetwork.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/624/624-LOGO-m.png" group-title="Kids",Cbeebies (V+)
-http://202.147.193.244/live/eds/Cbeebies/sa_dash/Cbeebies.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png" group-title="Kids",Buddy Star (V+)
-http://202.147.193.244/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/630/630-LOGO-m.png" group-title="Kids",Dreamworks (V+)
-http://202.147.193.244/live/eds/Dreamwork-HD/sa_dash/Dreamwork-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png" group-title="Kids",Kids TV (V+)
-http://202.147.193.244/live/eds/KidsChannel/sa_dash/KidsChannel.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/629/629-LOGO-m.png" group-title="Kids",My Kids (DNS)
-http://khano.nng.cloudns.us/live/m3u8/Kids/d906ad24c354b91.m3u8
-#http://202.147.193.244/live/eds/My-Kids/sa_dash/My-Kids.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/627/627-LOGO-m.png" group-title="Kids",Nick (V+)
-http://202.147.193.244/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-m.png" group-title="Kids",Nick Jr (V+)
-http://202.147.193.244/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-m.png" group-title="Kids",Zoo Moo (V+)
-http://202.147.193.244/live/eds/Zoomoo/sa_dash/Zoomoo.mpd
 
 
 
