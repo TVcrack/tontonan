@@ -1872,7 +1872,16 @@ https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&userid=li
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="HBO Group",CINEMAX
 
 
-
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="HBO Group",HBO
+https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/96.ts
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="HBO Group",HBO (ID)
+https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/693.ts
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="HBO Group",HBO Hits
+https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/97.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="HBO Group",HBO Family
+https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/98.ts
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="HBO Group",HBO Signature
+https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/99.ts
 
 
 
